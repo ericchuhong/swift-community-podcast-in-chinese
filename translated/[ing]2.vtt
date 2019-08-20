@@ -32,82 +32,83 @@ Thank you!
 <v Garric Nahapetian>是的，走到如今这一步确实需要很大的努力。So much goes into this. Scheduling, ideation, and once you're actually ready to record checking the inputs and all this stuff and we've done it, we're here. We've made it. And I just want to say congratulations to you both. You've accomplished something very big today. You should be proud. And I think after this episode, you can retire for the day.
 
 00:01:03.390 --> 00:01:06.270
-<v Chris Lattner>Okay. I think you've had a little too much coffee here.
+<v Chris Lattner>好的。我想你在这儿喝的咖啡有点太多了。
 
 00:01:08.440 --> 00:01:15.750
-<v Garric Nahapetian>Yeah, I'm glad I didn't drink that, a red bull, Lucy. I was like, Lucy, where's that red bull? She's like he was really old, I just threw it away. I was like, no I wanted to drink it.
+<v Garric Nahapetian>是的，还好我没喝那个，一罐红牛，Lucy。我想是的，Lucy。那罐红牛在哪？她像他一样真的很老，我就把它丢了。我想是的，不，我想喝喝它的。
 
 00:01:16.700 --> 00:01:30.470
-<v Garric Nahapetian>Okay, so for those that don't know. Bas, can you introduce yourself? What is the. So you, the curator of the Swift Weekly Brief. Can you just tell us a little bit about what the Swift Weekly Brief is? And, yeah.
+<v Garric Nahapetian>好的，对于那些不知道的人。Bas，你能自我介绍一下吗？所以你就是《Swift 每周简报》的负责人。你能给我们简单介绍一下《Swift 每周简报》吗？
 
 00:01:31.330 --> 00:01:37.350
-<v Bas Broek>Yeah. So the Swift Weekly Brief is not weekly. It's bi-weekly.
+<v Bas Broek>是的。所以《Swift 每周简报》不是每周更新的。每两周才更新一次。
 
 00:01:38.320 --> 00:01:40.280
-<v Bas Broek>But it is a newsletter
+<v Bas Broek>但这是一份时事通讯。
 
 00:01:40.930 --> 00:01:45.680
-<v Bas Broek>that goes into things that is going on in the Swift.org
+<v Bas Broek>这就涉及到 Swift.org 上正在进行的事情。
 
 00:01:46.290 --> 00:01:56.450
-<v Bas Broek>open source projects. So it's not just Swift itself, but also the project surrounding it, like Swift Package Manager, like the core libs like Foundation.
+<v Bas Broek>开源项目。所以不仅仅是 Swift 本身，还有围绕它的项目，比如 Swift Package Manager，又比如 Core Libs 和 Foundation 框架。
 
 00:01:57.000 --> 00:02:01.105
-<v Bas Broek>And anything that's going on in the community, that is,
+<v Bas Broek>以及社区里发生的任何事情。
 
 00:02:01.905 --> 00:02:10.725
-<v Bas Broek>people writing blog posts about Swift internals. And everything that's going on in the Swift evolution process and on the forums.
+<v Bas Broek>人们写关于 Swift 内部的博客。还有 Swift 更新换代的过程以及论坛上发生的一切。
 
 00:02:11.585 --> 00:02:24.005
-<v Garric Nahapetian>Right. So Swift Weekly Brief. You know, I get it every other week. I can read it and basically stay up to date on what's happening in Swift open source. It was created by Jesse Squires. And then when did you take it over?
+<v Garric Nahapetian>对。所以《Swift 每周简报》。你知道的，我每隔一周收到一次。我可以阅读它，基本上保持跟 Swift 开源项目同步更新。它是由 Jesse Squires 创建的。你什么时候接手的？
 
 00:02:24.665 --> 00:02:32.485
-<v Bas Broek>So, yeah. Jesse Squire started it. Basically, when Swift was open sourced, so I think he did the first two
+<v Bas Broek>所以，是的。Jesse Squire 开始运营的。基本上，当 Swift 是开源的时候就开始的，所以我认为他做了头两期。
 
 00:02:33.015 --> 00:02:34.325
-<v Bas Broek>just on his blog.
+<v Bas Broek>只发布在他的博客上。
 
 00:02:35.285 --> 00:02:50.605
-<v Bas Broek>And then he moved it to, one open source organization. So was easier to collaborate with others. And it was, I don't know when, but at some point he skipped an episode because he was on vacation.
+<v Bas Broek>然后他把它转交给一个开源组织。这样才更容易与他人合作。我不知道是什么时候，但在有些时候他会跳过一集，因为他在度假。
+
 
 00:02:51.145 --> 00:03:01.005
-<v Bas Broek>And he basically didn't know about that. And I think he posted it like, hey, there's no brief this week. We'll be back next week. And I was like, hey, let's
+<v Bas Broek>他根本上没察觉这件事。我想他发布的时候是这样的，嘿，这周没有简报哦。我们下周才恢复。我就会说，嘿，我们走吧
 
 00:03:01.895 --> 00:03:05.805
-<v Bas Broek>I talked to him and see why, like, what was the reason? And maybe he needs some help.
+<v Bas Broek>我跟他聊了聊，看看为什么，比如，原因是什么啊？也许他需要一些帮助。
 
 00:03:06.445 --> 00:03:13.705
-<v Bas Broek>So I basically just asked him like, hey, do you want some help or, can I fill it next time? And that's how it got started.
+<v Bas Broek>所以我基本上只是问他，嘿，你需要帮助吗?或者，我可以下次补吗?事情就是这样开始的。
 
 00:03:14.365 --> 00:03:26.145
-<v Garric Nahapetian>Awesome. So I want to get into the Swift Weekly Brief in detail. That's the main topic of today's episode. But before we do that, Chris, can you tell us, where's John Sundell?
+<v Garric Nahapetian>太棒了。所以我想详细介绍一下《Swift 每周简报》。这就是今天这期节目的主题。但在那之前，Chris，你能告诉我们，John Sundell 在哪吗？
 
 00:03:26.535 --> 00:03:28.725
-<v Chris Lattner>That's a good question. I don't know. I haven't seen him lately.
+<v Chris Lattner>这是个好问题。我不知道。我最近没见到他。
 
 00:03:29.325 --> 00:03:41.615
-<v Chris Lattner>So we're all still trying to figure out the format of this show, and we've come to a couple of ideas here. So first idea is that because it's by and for the community, it doesn't really make sense to have guests.
+<v Chris Lattner>所以我们都还在想这个节目的形式，并且我们已经有了一些想法。所以第一个想法是，由于它是来源于社区和为社区服务的，所以有客人真的没有意义。
 
 00:03:42.455 --> 00:03:43.105
-<v Chris Lattner>So we don't.
+<v Chris Lattner>所以我们不要。
 
 00:03:43.695 --> 00:03:52.555
-<v Chris Lattner>We're just, instead of having guests, we're gonna have co-hosts and we'll have one lead host, which today that's Garric. He's driving the show. He's
+<v Chris Lattner>我们不会请嘉宾，我们会有搭档主持，并且我们会有一个主要主持人，今天是 Garric。他是幕后负责人。就是他。
 
 00:03:53.145 --> 00:04:15.575
-<v Chris Lattner>keeping everybody on task, and aligned and, you know, pointing in the right direction. But then other people who join who will change week to week over time, our co-hosts and their equal members and equal participants. And I think it's gonna be a great way to go. So John was not able to make it this week, which is perfectly understandable. But I'm sure that he will be back.
+<v Chris Lattner>让每个人都专注于任务，保持一致，朝着正确的方向前进。但是其他加入的人会随着时间一周又一周的变化，我们的主持搭档、成员和参与者都是平等的。我认为这将是一个很好的方式。所以 John 这周没能来，是完全可以理解。但我肯定他会回来的。
 
 00:04:16.265 --> 00:04:46.475
-<v Garric Nahapetian>Yeah, so, as Chris said, I'm the lead host. That's like what, We're trying to encourage people to take on a role in the future, and we can talk a little bit more about that later. But Chris and Bas are also co-hosts. Everybody's a host. And in the future you can imagine I'm not on a recording or Chris isn't on a recording. And we're really trying to encourage a diverse set of voices in the community to take on this project and to help lead it into a beautiful future.
+<v Garric Nahapetian>是的，就像 Chris 说的，我是主持人。这就像，我们试着鼓励人们在未来扮演一个角色一样，我们稍后会详细讨论。但 Chris 和 Bas 也是搭档主持。每个人都是主人。在未来，你可以想象我会不在录音里或者 Chris 不在节目录音里。我们正努力鼓励社区中不同的声音参与到这个项目中来，并帮助把它引向美好的未来。
 
 00:04:47.155 --> 00:04:54.515
-<v Chris Lattner>And so we were all trying to split the difference between we all want to be involved in participating, push and make this happen. But we also don't want to be
+<v Chris Lattner>所以我们都想在参与，推动和实现这一目标之间找到平衡点。但我们也不想这样
 
 00:04:55.165 --> 00:05:00.735
-<v Chris Lattner>smothering or overwhelm it. Or for it to be about us specifically, we want it to be about and for the community.
+<v Chris Lattner>究竟该何去何从。特别是关于我们的，我们希望它是关于社区的。
 
 00:05:01.865 --> 00:05:09.895
-<v Garric Nahapetian>Yeah. And so, for those that were really looking forward to hearing John's voice, he'll be on a future episode for sure.
+<v Garric Nahapetian>是的。所以，对于那些真的很期待听到 John 声音的人，他肯定会出现在未来的一集里。
 
 00:05:10.615 --> 00:05:22.375
 <v Garric Nahapetian>All right. So what we want to do next is a little bit of follow up from the community, because the reception for episode one was off the charts. Honestly, I never really been a part of something like that.
