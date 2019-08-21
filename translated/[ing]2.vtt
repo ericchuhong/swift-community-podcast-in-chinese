@@ -1,4 +1,4 @@
-WEBVTT
+        WEBVTT
 
 NOTE
 title: Swift Community Podcast Episode 2: Scaling A Codeless Open Source Swift Community with Bas Broek
@@ -28,8 +28,7 @@ Thank you!
 <v Chris Lattner>我们活到第二集了。
 
 00:00:37.840 --> 00:01:02.250
-<v Garric Nahapetian>Yeah, It takes so much effort to be here right now. So much goes into this. Scheduling, ideation, and once you're actually ready to record checking the inputs and all this stuff and we've done it, we're here. We've made it. And I just want to say congratulations to you both. You've accomplished something very big today. You should be proud. And I think after this episode, you can retire for the day.
-<v Garric Nahapetian>是的，走到如今这一步确实需要很大的努力。So much goes into this. Scheduling, ideation, and once you're actually ready to record checking the inputs and all this stuff and we've done it, we're here. We've made it. And I just want to say congratulations to you both. You've accomplished something very big today. You should be proud. And I think after this episode, you can retire for the day.
+<v Garric Nahapetian>是的，走到如今这一步确实需要很大的努力。这里面的事情很多。计划，构思，并且一旦你准备好记录检查输入和所有这些东西我们已经做了，我们在这里。我们也做到了。并且我只想对你们俩说声恭喜。你们今天完成一件大事。你们应该自豪。我认为在这一集之后，你就可以退休了。
 
 00:01:03.390 --> 00:01:06.270
 <v Chris Lattner>好的。我想你在这儿喝的咖啡有点太多了。
@@ -111,28 +110,28 @@ Thank you!
 <v Garric Nahapetian>是的。所以，对于那些真的很期待听到 John 声音的人，他肯定会出现在未来的一集里。
 
 00:05:10.615 --> 00:05:22.375
-<v Garric Nahapetian>All right. So what we want to do next is a little bit of follow up from the community, because the reception for episode one was off the charts. Honestly, I never really been a part of something like that.
+<v Garric Nahapetian>好吧。我们接下来要做的是一点点跟进社区，因为第一集的接受度非常棒。老实说，我从来没有真正参与过这样的事情。
 
 00:05:22.905 --> 00:05:43.705
-<v Garric Nahapetian>You know, I'm like a giant Twitter follower or anything. And when John posted that we, you know, we had released this episode, it got like all these retweets and a bunch of people started following me. And our Swift, @theswiftpodcast twitter handle got like, 1000, 1500 follows in, like, one day. And beyond, like twitter there was a lot of really awesome
+<v Garric Nahapetian>你知道，我就像一个重度的推特粉丝。当 John 发推特的时候，我们已经发布了这一集，它得到了很多转发，很多人开始关注我。而我们的账号 @theswiftpodcast 的推特在一天内就被关注了 1000 到 1500 次。除此之外，就像 twitter 一样，还有有很多很棒的东西。
 
 00:05:44.265 --> 00:05:52.135
-<v Garric Nahapetian>response and feedback, you know, we were featured in a bunch of newsletters and email newsletters, and I think probably even podcasts.
+<v Garric Nahapetian>各界的回应和反馈，你知道，我们在一堆时事通讯和电子邮件中出现过，甚至可能在播客也有。
 
 00:05:52.875 --> 00:05:55.835
-<v Garric Nahapetian>What was your guys take from, like, the response?
+<v Garric Nahapetian>你们从中得到了什么？比如，从大家的回应中？
 
 00:05:56.695 --> 00:06:03.770
-<v Garric Nahapetian>Bas, what was your like feeling? Chris kind of was in on it, so he may be expecting it. What was your thoughts? Were you surprised? Or,
+<v Garric Nahapetian>Bas，你当时是什么感觉？Chris 也参与其中，所以他可能在期待。你是怎么想的？你会感到惊讶吗?或者其它
 
 00:06:04.640 --> 00:06:30.420
-<v Bas Broek>I mean, I wasn't surprised that, many people, like jumped in, right? Because I think in general, podcasting is something that is, something that more and more people are following and are trying to do, including myself. And then just an awesome new idea. What's, I think great, like hosts. John went with some followers on Twitter.
+<v Bas Broek>我的意思是，我并不惊讶，很多人，喜欢跟风，对吧？因为我认为总的来说，播客是一种受越来越多的人关注和尝试的东西，包括我自己。然后是一个很棒的新想法。我觉得很好，像主持人。John 和一些粉丝一起去了推特。
 
 00:06:31.190 --> 00:06:46.770
-<v Bas Broek>Chris helping out with that. And then I didn't know there were, like, 1500 followers. That's crazy. But I'm not surprised that many people are looking into it, and I think that's cool. And I hope that we can continue that enthusiasm and making it even bigger.
+<v Bas Broek>Chris 在帮忙。然后我不知道有 1500 个粉丝。这太疯狂了。但很多人都在研究这个问题，我并不感到惊讶，我认为这很酷。我希望我们能继续保持这种热情，让局势变得更壮大。
 
 00:06:47.560 --> 00:06:50.050
-<v Garric Nahapetian>You have a, you Chris. What was your thoughts on the response?
+<v Garric Nahapetian>有道理，你呢？Chris，你对此有何看法？
 
 00:06:50.060 --> 00:06:52.170
 <v Chris Lattner>I thought the response is fantastic,
