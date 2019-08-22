@@ -374,6 +374,7 @@ Conlon 和 Neil
 
 00:18:23.913 --> 00:19:11.293
 <v Garric Nahapetian>the difference is for me personally, like you have contributed to some open source, like code projects and contribute to Swift Weekly Brief. One thing that I was really worried about was like my voice, like the style, like for instance, Greg Heo. When he contributes to a Swift Weekly Brief issue, he always opens with, like a haiku, or a poem or something. And when I was writing the issue like my style, I felt like it was very dry. I didn't really want to add too much like flavor, and that was something that I struggled with. Have you like, did you think about that early on, like when you took over? If you go to the contribution list, you know, Jesse's contribute a bunch of issues, and then it's you. So when you were taking over, like did you, did you think about like, oh, how's Jesse going to think about my writing voice or my style? Because
+不同之处在于，就我个人而言，就像你为一些开源项目，如代码项目和Swift每周简报做了贡献一样。我真正担心的一件事是我的声音，风格，比如格雷格·休。当他为每周一期的《Swift》投稿时，他总是以俳句、诗歌之类的开头。当我以自己的风格写这期杂志时，我觉得它很枯燥。我并不想添加太多的味道，这是我一直在挣扎的事情。你之前有没有想过，比如你刚拍的时候
 
 00:19:11.953 --> 00:19:28.463
 <v Garric Nahapetian>one thing I'm struggling or one thing I'm thinking about with this podcast is, how do we pass on the microphone, so to say and trust someone else to say, we approve of your voice, like even if that's an okay thing to say, that we approve of your voice to, like be on this podcast.
@@ -389,791 +390,893 @@ Conlon 和 Neil
 
 00:19:42.793 --> 00:19:45.763
 <v Bas Broek>the hardest border to cross.
+最难跨越的边界。
 
 00:19:46.803 --> 00:19:52.463
 <v Bas Broek>And at that point, I would only want to encourage people to do their thing. And
+在这一点上，我只想鼓励人们做他们想做的事情。和
 
 00:19:53.103 --> 00:20:00.173
 <v Bas Broek>if that means adding a haiku. But that's great. If that means hey, I just want to, like,
+如果这意味着添加俳句。但这太好了。如果这意味着，嘿，我只是想，喜欢
 
 // unclear first word
 00:20:01.103 --> 00:20:17.986
 <v Bas Broek>so like have an overview of all the issues that have been discussed, or all the topics on the forums. Then that's totally fine as well. Because especially for me, I've done like a newsletter in the past, like really really, like 10 years ago or so,
+所以要概述所有讨论过的问题，或者论坛上的所有话题。那也完全没问题。因为对我来说，我在过去做过时事通讯，大概是10年前
 
 00:20:18.686 --> 00:20:45.346
 <v Bas Broek>and I think for me as well and also for Jesse, it's also hard. Because the longer you do this and the more you get into this rhythm, the harder it is to really add this extra flavor to it I think. And I think that's also the power of these writers that pop in from time to time, and that's really really great to see and, there always people around to help.
+我想对我和杰西来说，这也很难。因为你这样做的时间越长，你进入这个节奏的时间越长，就越难给它添加额外的味道。我认为这也是这些作家不时出现的力量，这真的非常非常棒，总是有人在身边帮助。
 
 00:20:45.936 --> 00:20:49.096
 <v Bas Broek>We had the first step, I think is the biggest.
+我们迈出了第一步，我认为这是最大的一步。
 
 // unclear
 00:20:49.106 --> 00:21:01.946
 <v Chris Lattner>It's really great to be able to tap in, to new people's energy and enthusiasm and can't take the different take the perspective. And one of the challenges I think that codeless communities have is that there isn't,
+能够融入新人的活力和热情，不能从不同的角度看问题，这真的很棒。我认为无代码社区所面临的挑战之一就是没有
 
 // unclear, norms?
 00:21:02.976 --> 00:21:12.846
 <v Chris Lattner>the same set of norms that open source coding communities have. I mean, open source communities tend to have a culture
+与开源编码社区拥有相同的一套规范。我的意思是，开源社区往往有一种文化
 
 00:21:13.516 --> 00:21:20.296
 <v Chris Lattner>you know, GitHub's a major piece of that. But there's a lot of kind of standards and norms that cut across many of these communities.
+你知道，GitHub是其中的一个主要部分。但是有很多标准和规范贯穿这些社区
 
 00:21:20.836 --> 00:21:31.746
 <v Chris Lattner>But it seems like the codeless communities don't have that same established, well known kind of feel. The earth made resources for people to draw and tap into, and so that could just make it
+但似乎无代码社区并没有同样的建立，众所周知的那种感觉。地球为人类提供了资源，人们可以利用这些资源
 
 00:21:32.456 --> 00:21:35.446
 <v Chris Lattner>you know more challenging for people to get involved because they don't even know how.
+你知道，让人们参与进来更具挑战性，因为他们甚至不知道如何参与。
 
 00:21:36.446 --> 00:21:45.096
 <v Garric Nahapetian>Like for instance, when you're learning Swift, you can go to a Swift style guide, right? Or if we're solving some coding problem.
+比如，当你学习斯威夫特的时候，你可以去斯威夫特的风格指南，对吧?或者我们在解决一些编码问题。
 
 00:21:45.736 --> 00:22:17.627
 <v Garric Nahapetian>Generally, there might be a few different ways to solve. That's almost like a math problem, right? There's like one way to solve this math problem. But if you're talking about, like how to interview someone or how to be a co-host, there's not really, there's not like a guide book out there. There's not a style guide out there yet. Or maybe there is. But it might not be it's clear cut as we always have no space, you know, after a variable name, then a calling, then a space, and then you explicitly type, you know, the variable or whatever,
+一般来说，可能有几种不同的解决方法。这就像一道数学题，对吧?有一种方法可以解这道数学题。但是如果你谈论的是，比如如何面试某人或者如何成为一名联合主持人，并没有什么指导手册。目前还没有一个时尚指南。也许有。但它可能不是很清楚，因为我们总是没有空格，在变量名之后，然后是调用，然后是空格，然后你显式地输入，你知道的，变量或其他东西
 
 00:22:17.767 --> 00:22:19.977
 <v Chris Lattner>but no no no no, don't put a space for that calling.
+但是，不，不，不，不，不，不要为那个电话留出空间。
 
 00:22:22.167 --> 00:22:38.677
 <v Chris Lattner>Yeah, well, and so there's a question of how much control is really necessary, right? And, in the case of a shared code base, having standards is really important because you get code contributed, code modified, cold maintained by different people.
+所以有一个问题是多少控制是必要的，对吧?在共享代码库的情况下，拥有标准是非常重要的，因为代码是由不同的人贡献、修改和冷维护的。
 
 00:22:39.257 --> 00:22:58.797
 <v Chris Lattner>Whereas in the case of the newsletter or even a podcast episode, it's more easy for it to be unique and different and have its owns potential even very strong personality. That's very diversion from the rest. And that's okay. I mean, I think that's something that we can really encourage, and I'd rather
+而在时事通讯或播客的情况下，它更容易是独特的，不同的，有它自己的潜力，甚至非常强大的个性。这是非常分散注意力的。这是好的。我的意思是，我认为这是我们可以真正鼓励的事情，我宁愿
 
 00:22:59.857 --> 00:23:01.977
 <v Chris Lattner>I'm speaking for myself, I'd rather see a lot of
+我是在为我自己说话，我宁愿看很多
 
 // unclear, orchestrate?
 00:23:02.577 --> 00:23:28.477
 <v Chris Lattner>different ideas and experiments tried. And even if they don't work out, that's okay. And so to me, I think that, you know, in terms of the folks that are helping orchestrate and push and, curate these kinds of things and make them happen. The role can be more of mentorship, and say okay, well, I, you know our role to help encourage and help answer questions and help
+不同的想法和尝试。即使不成功，也没关系。所以对我来说，我认为，你知道，就那些帮助协调、推动、策划这些事情并让它们发生的人而言。这个角色可以更像是导师，你可以说，好吧，我，你知道我们的角色是帮助鼓励和帮助回答问题和帮助
 
 00:23:29.357 --> 00:23:40.877
 <v Chris Lattner>pave the roads where you want them paved. But if you want to go off road, you want do crazy things, you know, so long as it respects the, you know, has a base level of respect for the community. Then I think that's okay.
+把路铺在你想铺的地方。但是如果你想要离开公路，你想要做疯狂的事情，你知道，只要它尊重，你知道，对社区有基本的尊重。那我想没问题。
 
 00:23:41.577 --> 00:23:45.977
 <v Bas Broek>Yeah, I think something you touched on is like a code base, something
+是的，我觉得你提到的一些东西就像一个代码库，一些东西
 
 00:23:46.817 --> 00:23:52.297
 <v Bas Broek>is a dynamic thing that multiple people are working on and multiple people need to be,
+这是一个动态的东西，需要很多人去做，也需要很多人去做吗
 
 00:23:53.697 --> 00:24:12.184
 <v Bas Broek>like able to work in. And that's why these guidelines are important. Whereas with a podcast or with a newsletter it's more static. It's one issue that, you know, you might find a typo and fix it, but other than that, it probably won't change. So the risk is possibility of doing your thing.
+比如能够在公司工作。这就是为什么这些指导方针很重要。而播客或时事通讯则比较静态。这是一个问题，你知道，你可能会发现一个错误，并修复它，但除此之外，它可能不会改变。风险是你做事的可能性。
 
 00:24:14.644 --> 00:24:39.204
 <v Bas Broek>That said, though we do have some, like a style guide or at least some kind of process on how to write certain things in issue. And I think that was a major push by Jesse when he started to make it inclusive and to make sure that, the language and the things we write in the porcast, or in the issues
+也就是说，虽然我们有一些，比如风格指南，或者至少是关于如何写一些有争议的东西的过程。我认为这是杰西的一个重要推动，当他开始使它具有包容性，并确保，语言和我们写在porcast，或问题
 
 00:24:39.854 --> 00:24:40.494
 <v Bas Broek>or,
+或者
 
 00:24:41.274 --> 00:24:45.134
 <v Bas Broek>you know, respectable and people won't be,
+你知道，受人尊敬的人是不会受人尊敬的
 
 00:24:46.174 --> 00:24:46.744
 <v Bas Broek>Well,
+好的
 
 00:24:47.474 --> 00:24:54.484
 <v Bas Broek>that people will read what you want to read and that you include all the people that you should, and yeah.
+人们会读你想读的书，你也包括了所有你应该读的人，是的。
 
 00:24:55.274 --> 00:25:07.374
 <v Garric Nahapetian>Have you been finding that style guide has been helpful? Have you needed to enforce it? Or how did you, you know cause I looked on your list of authors that's actually quite a number, you know large number of different authors.
+你觉得那个风格指南有用吗?你需要强制执行吗?或者你是怎么知道的，因为我看了你的作者列表，实际上有很多，你知道很多不同的作者。
 
 00:25:07.944 --> 00:25:11.634
 <v Garric Nahapetian>How did you actually like, encourage those authors to look at the style guide?
+你是如何鼓励那些作者去看风格指南的
 
 00:25:12.254 --> 00:25:14.684
 <v Garric Nahapetian>How did you resolve those conflicts if they ever came up?
+如果这些冲突发生了，你是如何解决的
 
 00:25:15.614 --> 00:25:17.314
 <v Bas Broek>So they don't really come up.
+所以它们不会真的出现。
 
 00:25:18.474 --> 00:25:30.984
 <v Bas Broek>But it's nice to be able to have this list. So that if there is an issue, you can objectively point to it. That's also what I really love about a style guide. When it comes to code or anything.
+但是能有这个列表很好。所以如果有问题，你可以客观地指出来。这也是我喜欢《风格指南》的原因。当涉及到代码什么的时候。
 
 00:25:31.544 --> 00:25:56.924
 <v Bas Broek>But it's just in the contributing guidelines. So that's what I try to point people to. And when they are contributing, make them aware of it. I think GitHub is doing a good job there as well, to point people in the direction of contributing guidelines. And then it's a matter of like following and making sure that the progress on an issue is like being monitored
+但它只是在贡献指南中。这就是我想告诉大家的。当他们在做贡献时，让他们意识到这一点。我认为GitHub在这方面也做得很好，为人们指明了提供指导方针的方向。然后就是跟踪并确保在一个问题上的进展就像被监控一样
 
 00:25:57.474 --> 00:26:02.444
 <v Bas Broek>and helping them out there and pointing them in the right direction. But in general, that's fine.
+帮助他们找到正确的方向。但总的来说，这很好。
 
 00:26:02.794 --> 00:26:06.184
 <v Chris Lattner>Yeah, I see very similar to the goal of a code of conduct.
+是的，我认为这与行为准则的目标非常相似。
 
 00:26:06.744 --> 00:26:09.967
 <v Chris Lattner>I mean, some code of conduct, their polarizing sometimes, and
+我的意思是，一些行为准则，他们有时会两极分化
 
 00:26:10.477 --> 00:26:12.417
 <v Chris Lattner>they're definitely multiple opinions on that.
+在这一点上，他们的意见肯定是多种多样的
 
 00:26:13.127 --> 00:26:31.547
 <v Chris Lattner>But to me, one of the most important things about a code of conduct is just explaining what the expectations are, right? And hopefully you never have a bad thing happen. Hopefully, the code of conduct never needs to be enforced, but it's still super valuable to explain what the expectations are and what you're looking for. And
+但对我来说，行为准则最重要的一点就是解释期望是什么?希望你永远不会有不好的事情发生。希望行为准则永远不需要强制执行，但是解释期望是什么和您正在寻找什么仍然是非常有价值的。和
 
 
 // unclear, last sentence
 00:26:32.077 --> 00:26:47.427
 <v Chris Lattner>in the case of the guidelines for the brief. It's also gives people a little bit of structure, and often having structure makes it easier to contribute because you don't have to invent everything whole cloth from scratch.
+在简要的情况下为指导方针。它也给了人们一些结构，通常有了结构就更容易做出贡献，因为你不需要从头开始发明所有的东西。
 
 00:26:47.907 --> 00:26:50.437
 <v Bas Broek>Yeah, exactly. And like Garric said,
+是的,没错。就像Garric说的
 
 00:26:51.017 --> 00:27:00.417
 <v Bas Broek>we had some, you know where he found it really difficult to find a figure out, hey, is this too dry, is it too much fun? You know? Is it,
+我们有一些，你知道他发现很难找到一个答案，嘿，这是不是太枯燥了，是不是太有趣了?你知道吗?它是
 
 00:27:00.957 --> 00:27:11.617
 <v Bas Broek>how should I write? And this guidelines can help you to at least get it common understanding of, hey, at least the proposals I can do in this format and that will be understood and
+我该怎么写?这个指南可以帮助你至少让大家对我的提案有一个共同的理解，至少我可以用这种格式来写提案，大家会理解的
 
 00:27:12.307 --> 00:27:13.387
 <v Bas Broek>and accepted.
+和接受。
 
 // unclear
 00:27:14.217 --> 00:27:35.217
 <v Chris Lattner>So Bas, the Brief to me is a hugely valuable thing for the community. I read it every time it comes out. I think it's really great. What is your success like to get new contributors to the brief and help with the writing. And what would it take to make the brief get to the next level and get more participation?
+所以，对我来说，这份简报对社区来说是非常有价值的。每次出版我都看。我认为它真的很棒。你的成功之处是什么?怎样才能让简报更上一层楼，得到更多的参与
 
 00:27:36.207 --> 00:27:36.937
 <v Bas Broek>I think it's
+我觉得它是
 
 00:27:37.507 --> 00:27:46.757
 <v Bas Broek>like, like with the podcast. There's a lot of things you can do. If you want to contribute to the brief. You don't necessarily have to write an issue, because
+我认为这就像播客一样 你可以做很多事情。如果你想对摘要有所贡献。你不需要写一个问题，因为
 
 00:27:47.377 --> 00:27:50.897
 <v Bas Broek>what we do is we open a GitHub issue for every
+我们所做的就是为每个用户打开一个GitHub问题
 
 00:27:52.717 --> 00:27:55.767
 <v Bas Broek>issue, just like with the podcast.
+就像播客一样。
 
 00:27:56.287 --> 00:28:05.817
 <v Bas Broek>And you can just contribute a link to that, right? Or share story or share something. So, that is also how I started is to just
+你可以提供一个链接，对吧?或者分享故事或者分享一些东西。 这也是我开始
 
 00:28:06.877 --> 00:28:16.407
 <v Bas Broek>follow the forums and add some interesting things. And then maybe they will be put in the newsletter. So I think that's a really great way to start.
+关注论坛并添加一些有趣的东西的原因。然后他们可能会被放到时事通讯里。所以我认为这是一个很好的开始。
 
 00:28:18.897 --> 00:28:22.937
 <v Bas Broek>And I think that's again the most important thing. If you want to contribute,
+我认为这也是最重要的。如果你想有所贡献
 
 00:28:23.527 --> 00:28:25.437
 <v Bas Broek>let somebody know, reach out.
+让别人知道，伸出手来。
 
 00:28:26.027 --> 00:28:28.337
 <v Bas Broek>And you can do it.
+你可以做到。
 
 00:28:29.347 --> 00:28:39.837
 <v Garric Nahapetian>The Swift Weekly Brief for those that don't know, it's really cool the way that it was set up. And I know I've mentioned it, you know, bunch, that was really inspired by the brief for this podcast. And,
+对于那些不知道的人，斯威夫特每周简报，它的设置方式真的很酷。我知道我已经提过了，你知道，一群人，这真的是受到了这个播客的启发。
 
 00:28:40.357 --> 00:28:52.257
 <v Garric Nahapetian>you know, it's really automated like you add yourself as author and you run the script and it creates a template. It creates an issue from a template. And then you know post that issue on GitHub and
+你知道，它真的是自动化的，就像你添加你自己作为作者，你运行脚本，它创建一个模板。它从模板创建一个问题。然后把这个问题发布到GitHub上
 
 00:28:52.967 --> 00:29:13.077
 <v Garric Nahapetian>as, you know, as an author, that's where you can keep track of the next issue. And you'll, you know during the week, if you find something interesting, you can post a comment on that issue and then include it later on. So that's what Bas's talking about as a way to contribute to the Swift Weekly Brief. You don't necessarily have to be an author. You can,
+你知道，作为一个作家，这是你可以跟踪下一个问题的地方。你知道，在这周，如果你发现一些有趣的事情，你可以就这个问题发表评论，然后在后面加上。这就是Bas所说的为Swift每周简报做贡献的方式。你不一定要成为一名作家。你可以
 
 00:29:13.747 --> 00:29:24.737
 <v Garric Nahapetian>if you're, during the week, if you find something interesting on Swift evolution or in the community, just grab that link and post it on the next issue, and it might end up in the next issue. Bas would see it, or somebody would see it.
+如果你在这周内，发现了一些关于快速进化的有趣的东西，或者在社区中发现了一些有趣的东西，抓住那个链接，把它发布到下一期，它可能会在下一期结束。Bas会看到它，或者有人会看到它。
 
 00:29:25.447 --> 00:29:29.937
 <v Garric Nahapetian>And I'm wondering, like how we can leverage that kind of a concept
+我在想，我们如何利用这个概念
 
 00:29:30.527 --> 00:29:52.937
 <v Garric Nahapetian>for this podcast. Because against, like, a little different, right? It's like kind of, it's audio. And so it's hard to, I don't know how we could cooperate that. Have you thought about that at all? Chris like, how can we leverage the Swift Weekly Briefs style of creating a, like proposal, or like, an episode or an issue and then, like people contribute to it? And then how do we then translate that to an episode?
+对于这个播客。因为有点不同，对吧?有点像音频。所以很难，我不知道我们如何合作。你想过吗?Chris like，我们如何利用Swift每周简报的风格来创建一个，比如提议，或者，一个插曲或者一个问题，然后，就像人们对它所做的贡献一样?然后我们如何把它转化成一个情节
 
 // unclear
 00:29:53.367 --> 00:29:55.987
 <v Chris Lattner>Well, I think that there's kind of this inherent tension between
+我认为这两者之间有一种内在的张力
 
 00:29:57.467 --> 00:30:16.476
 <v Chris Lattner>how much process and overhead you provide, how much structure you give people to work within and then how much flexibility you allow. And I think that we're quite open being super flexible. But I think that having more structure and process involved, for example, a proposal process like the one you came up with Garric, that you should be talking about,
+您提供了多少流程和开销，您为员工提供了多少结构，然后您允许多大的灵活性。我认为我们非常开放，非常灵活。但我认为有更多的结构和过程，例如，一个提案过程，就像你提出的Garric，你应该谈谈
 
 00:30:17.146 --> 00:30:29.106
 <v Chris Lattner>can be really great because one of the challenges we have right now is making episode is not completely trivial. And so you kind of need
+非常棒，因为我们现在面临的挑战之一就是让情节变得不那么琐碎。所以你需要
 
 00:30:29.686 --> 00:30:35.766
 <v Chris Lattner>two or three people working together in order to make an episode happen, not just to do the speaking, but also
+两三个人一起工作，为了让一个情节发生，不仅做演讲，而且
 
 00:30:36.676 --> 00:30:41.366
 <v Chris Lattner>to find the right co-hosts and scheduling the time to record,
+找到合适的主机并安排时间记录
 
 00:30:42.076 --> 00:30:56.336
 <v Chris Lattner>making sure that the topics covered makes sense and, you know, combined together correctly and, previewing production pieces. So I think that having a structure for that could be really great. Do you want talk about your ideas on this?
+确保所涵盖的主题是有意义的，并且，您知道，正确地组合在一起，预览产品片段。所以我认为有一个这样的结构是非常棒的。你想谈谈你的看法吗
 
 00:30:56.706 --> 00:31:01.586
 <v Garric Nahapetian>It's really again inspired by both a combination of Swift Weekly Briefing and the Swift evolution
+它的灵感再次来自于Swift每周简报和Swift演进的结合
 
 00:31:02.106 --> 00:31:10.986
 <v Garric Nahapetian>proposal process. So if you want, you can go on our repo, I created three pull requests #18 #19 and #22.
+建议的过程。如果你愿意，你可以继续我们的回购，我创建了三个pull request #18 #19和#22。
 
 00:31:12.096 --> 00:31:13.766
 <v Garric Nahapetian>#18 talks about
+# 18谈论了关于
 
 00:31:14.396 --> 00:31:19.006
 <v Garric Nahapetian>sort of like an overview of what it takes to make a podcasts. It talks about all the different
+有点像制作播客的概述。它讲述了所有的不同
 
 00:31:19.816 --> 00:31:30.906
 <v Garric Nahapetian>sort of stages of the podcast. You have like pre-production, which is ideation and scheduling. And then you have production, which is what we're doing right now. So that includes
+播客的不同阶段。你有预生产，也就是构思和计划。然后是生产，这就是我们现在正在做的。所以,包括
 
 00:31:31.516 --> 00:31:38.736
 <v Garric Nahapetian>you know getting everybody to show up to the microphone, setting up all the audio and hitting the record button,
+你知道让每个人都到麦克风前，设置好所有的音频，然后按下录制按钮
 
 00:31:39.426 --> 00:31:40.356
 <v Garric Nahapetian>and then someone
+而且还远不止此
 
 00:31:40.356 --> 00:31:44.076
 <v Chris Lattner>get, getting all the sound levels working, getting Chris in microphone.
+把所有的声音都调好，把克里斯放到麦克风里。
 
 00:31:45.136 --> 00:31:46.566
 <v Garric Nahapetian>Yeah, and somebody,
+是的，有人
 
 00:31:47.156 --> 00:32:00.276
 <v Garric Nahapetian>you know, kind of maybe needs to lead, sort of help keep everybody on track and that sort of production. Then you have post-production, which includes the editing and making sure it sounds good and mixing. And then you have publishing, which is like putting it on the
+你知道，可能需要领导，帮助大家保持在正轨上，这样的生产。然后是后期制作，包括编辑、确保听起来不错以及混合。然后是出版，就像把它放在
 
 00:32:00.856 --> 00:32:12.666
 <v Garric Nahapetian>so that PR kind of gives a brief overview like, hey, it's awesome that you wanna contribute. This is what it takes to make a podcast episode. Then PR #19 is a template which I,
+所以PR给出了一个简短的概述，就像，嘿，你想要做出贡献是很棒的。这就是制作播客所需要的。然后PR #19是一个模板，我
 
 00:32:13.293 --> 00:32:16.883
 <v Garric Nahapetian>you know, basically just took from Swift evolution and
+你知道，基本上只是从快速进化和
 
 // unclear, cute?
 00:32:17.423 --> 00:32:33.123
 <v Garric Nahapetian>try to be a little cute with it. You know, for instance, with some of the sections like source compatibility, talks about how your episode proposal is compatible with the theme of the podcast. And so the idea there is we can iterated on a proposal, episode proposal template
+试着可爱一点。例如，在source compatibility这一节中，我们讨论了你的节目提案和播客主题的兼容性。所以我们的想法是我们可以重复一个提议，插曲提议模板
 
 00:32:34.073 --> 00:32:41.903
 <v Garric Nahapetian>that could potentially be used for a future episode proposal pull request. So if you go to PR #19 you can see
+这可能会用于未来的情节提议拉请求。如果你去PR #19，你会看到
 
 00:32:42.823 --> 00:32:45.183
 <v Garric Nahapetian>my proposal for this episode,
+我对这一集的提议，
 
 00:32:46.503 --> 00:33:18.123
 <v Garric Nahapetian>which is just an experiment, right? And so I posted this proposal in a PR, and we kind of talked about it and we can iterate on it. And again, really, it's all an experiment, but I'm thinking that maybe something like this could potentially work. So let's say you're excited about this podcast and you have a podcast episode idea. You can follow this guideline and create a proposal and then gather support around that proposal for your idea. So maybe you don't want to be a host,
+这只是一个实验，对吧?所以我把这个建议贴在了PR上，我们讨论了一下，我们可以反复讨论。再说一遍，真的，这只是一个实验，但我在想也许像这样的东西有潜在的作用。假设你对这个播客很感兴趣你有一个播客的点子。你可以遵循这个指导方针，创建一个提案，然后围绕这个提案为你的想法收集支持。所以也许你不想当主持人
 
 00:33:18.713 --> 00:33:56.423
 <v Garric Nahapetian>but you want to edit or you'll help schedule it or something. You can fill all those roles and get support, and then we can approve the PR, and that's sort of like green lighting the episode, and we're saying, go for it, record that episode. And there's even like a review manager idea, where like I could be, let's say the review manager, and I'll help you know, produce the podcast and help you get it pushed forward. So this is all an experiment. But really, it was born out of being inspired by everyone's support and contribution and saying, man, we really need to figure out a way, to empower all these people to contribute to this,
+但是你想要编辑或者你会帮助安排它。你可以扮演所有这些角色并获得支持，然后我们可以批准PR，这有点像绿色照明这一集，我们说，去做，记录这一集。甚至还有一个评审经理的想法，比如我可以是评审经理，我会帮你制作播客，帮你把它推进去。这只是一个实验。但实际上，它诞生于受到每个人的支持和贡献的鼓舞，并说，伙计，我们真的需要找到一种方法，让所有这些人都为之做出贡献
 
 00:33:56.963 --> 00:34:01.423
 <v Garric Nahapetian>to leverage all that excitement and help them contribute. So yeah,
+利用所有的兴奋，帮助他们做出贡献。所以,是的
 
 00:34:01.813 --> 00:34:07.943
 <v Chris Lattner>yeah, and then again, it's the challenge of taking enthusiasm and turning into a polish result, which
+是啊，不过话说回来，这是个挑战，要把热情转化成完美的效果
 
 00:34:08.513 --> 00:34:18.480
 <v Chris Lattner>you know you want, you want to get people involved. But when you need multiple, different people work together that may not have heard of each other and certainly have probably not met each other.
+你知道你想要，你想让人们参与进来。但当你需要多个不同的人一起工作时，他们可能没有听说过彼此，也肯定没有见过彼此。
 
 00:34:19.470 --> 00:34:23.580
 <v Chris Lattner>It's a fun challenge. It's the social challenge. But this is what open source is good for,
+这是一个有趣的挑战。这是社会的挑战。但这就是开源的好处
 
 00:34:24.140 --> 00:34:24.790
 <v Chris Lattner>so we just need
+所以我们只需要
 
 00:34:25.340 --> 00:34:27.980
 <v Chris Lattner>iterate on it and try a few things out, and I think we'll get there.
+对它进行迭代并尝试一些东西，我认为我们会达到目标。
 
 00:34:28.540 --> 00:34:32.030
 <v Bas Broek>Yeah, that's something I really like about the review managers as well,
+是的，这也是我喜欢评审经理的地方
 
 00:34:32.770 --> 00:34:45.360
 <v Bas Broek>because I've seen it in Swift evolution. We use it at work for proposals, and it really helps to like have, one person or multiple people have an idea,
+因为我见证了它的快速进化。我们在工作中使用它来提出建议，一个人或几个人有一个想法真的很有帮助
 
 00:34:45.930 --> 00:34:59.750
-<v Bas Broek>but then taking away the responsibility of like, shepherding it and making people aware if it to somebody else. Which can be really fun to do as well, and that the people that came up with this proposal
+<v Bas Broek>然后放弃了喜欢的责任，引导它并让人们意识到它是否适合其他人。这也是非常有趣的，也是提出这个建议的人
 
 00:35:00.670 --> 00:35:14.500
-<v Bas Broek>can just focus on the proposal and talking to people and somebody else taking care of the rest and making sure that, everything is happening, and also having one person to talk to is a really great idea.
+<v Bas Broek>可以专注于提案，并与人和其他人交谈，照顾其他人并确保一切都在发生，并且还有一个人可以交谈，这是一个非常好的主意。
 
 00:35:14.710 --> 00:35:18.390
-<v Chris Lattner>Yeah, for me, I'm very strong believer in
+<v Chris Lattner>是的，对我而言，我非常坚信
 
 00:35:19.040 --> 00:35:29.990
-<v Chris Lattner>whether be project management or feature development or lots of different areas of life, having a single human that owns making an effort successful.
+<v Chris Lattner>无论是项目管理还是功能开发还是许多不同的生活领域，拥有一个拥有努力成功的人。
 
 00:35:30.580 --> 00:35:45.310
-<v Chris Lattner>Even though it often takes many different people involved to actually make it happen. But if you have one person that feels responsibility and ownership for making it happen, then they can help pull together the different kinds of experience and
+<v Chris Lattner>即使经常需要很多不同的人来实现它。但是，如果你有一个人为实现这一目标而感到责任和所有权，那么他们可以帮助将各种经验和经验结合起来
 
 00:35:46.280 --> 00:35:51.040
-<v Chris Lattner>can help shepherd it through the process that it needs to go through to actually happen.
+<v Chris Lattner>可以帮助它完成它需要经历的实际过程。
 
-// unclear, form?
+
+//不清楚，形式？
 00:35:51.570 --> 00:35:57.510
-<v Chris Lattner>Hopefully the form can help with that. And and you know, we'll figure it out and we'll iterate and we'll change it as we go.
+<v Chris Lattner>希望表格可以帮助解决这个问题。并且你知道，我们会弄明白，我们会迭代，我们会随着时间的推移改变它。
 
 00:35:58.280 --> 00:36:01.630
-<v Garric Nahapetian>Yes. So if there was a few people that created issues on
+<v Garric Nahapetian>是的。因此，如果有一些人创造了问题
 
 00:36:02.270 --> 00:36:18.438
-<v Garric Nahapetian>on the repo and they had, like, a topic, you know, or they said I could be a co-hoster, I would love to be a guest. So I actually replied to them and said, hey we're going through this proposal experiment. Why don't you, followed, so these three PRs
+
+回复说，<v Garric Nahapetian>他们有一个话题，你知道，或者他们说我可以成为一个共同主持人，我很想成为一名客人。所以我实际上回复了他们并说，嘿，我们正在进行这个提案实验。你为什么不跟着，所以这三个PR
 
 00:36:19.088 --> 00:36:25.938
-<v Garric Nahapetian>and create a proposal for this topic. So no one's here to do that. That the opportunity is there, you could be the first
+<v Garric Nahapetian>并为此主题创建提案。所以没有人在这做那件事。机会在那里，你可能是第一个
 
 00:36:26.558 --> 00:36:34.348
-<v Garric Nahapetian>you know, second proposal. You could be the second proposal. You know, the real, I'd be like, the first real one. The one I did is kind of just a test and experiment,
+<v Garric Nahapetian>你知道，第二个建议。你可能是第二个提案。你知道，真实的，我会是第一个真实的。我做的那个只是一个测试和实验，
 
 00:36:35.388 --> 00:36:49.098
-<v Garric Nahapetian>and you can put a proposal up there. And it really is gonna take iteration and really kind of see what works and what doesn't work. I don't know if this proposal idea will work, but I feel like something there.
+<v Garric Nahapetian>你可以在那里提出建议。它真的需要迭代，真正看到什么有效，什么无效。我不知道这个提案的想法是否有效，但我觉得那里有些东西。
 
 00:36:49.788 --> 00:37:11.898
-<v Garric Nahapetian>We can really make it happen with some kind of this proposal process. Bas with your experience, like with the Swift Weekly Brief, can you see any like, challenges that this proposal process that we're like talking about, you know, maybe it won't work or what can you anticipate, what we might need to kind of change or tweak to make it work?
+<v Garric Nahapetian>我们可以通过某种提议流程实现这一目标。根据您的经验，与Swift Weekly Brief一样，您是否可以看到我们所讨论的提案流程中的任何类似挑战，您知道，也许它不起作用或您可以预期什么，我们可能需要什么改变或调整以使其有效？
 
 00:37:13.048 --> 00:37:16.468
-<v Bas Broek>Well, I mean, to a frequent brief, we don't really have proposals,
+<v Bas Broek>嗯，我的意思是，对于一个频繁的简报，我们并没有真正的建议，
 
 00:37:17.218 --> 00:37:20.668
-<v Bas Broek>but like I said, I have, like I follow the Swift evolution,
+<v Bas Broek>但就像我说的那样，我有，就像我遵循Swift进化一样，
 
 00:37:21.548 --> 00:37:32.998
-<v Bas Broek>we have proposals at work, and I think they can be a bit intimidating because it's not just, hey, let's do something. You actually have to think about it and write about it, which will definitely be beneficial.
+<v Bas Broek>我们有工作提案，我认为它们有点令人生畏，因为它不仅仅是，嘿，让我们做点什么。你实际上必须考虑它并写下它，这肯定是有益的。
 
 00:37:33.528 --> 00:37:36.698
-<v Bas Broek>But it is the first thing to overcome.
+<v Bas Broek>但这是第一件要克服的事情。
 
 00:37:37.288 --> 00:37:51.908
-<v Bas Broek>That's said, I think they are really useful, especially with these projects being open source to, just get the idea out and be transparent about what you're doing and everybody being able to contribute to it.
+<v Bas Broek>据说，我认为它们非常有用，特别是这些项目是开源的，只是把想法弄清楚，并对你正在做的事情保持透明，并且每个人都能为之做出贡献。
 
 00:37:53.958 --> 00:37:57.308
-<v Bas Broek>Already having a motivation
+<v Bas Broek>已经有了动力
 
 00:37:57.928 --> 00:38:08.798
-<v Bas Broek>can really help others to provide useful input instead of input that you might not want. So I think the proposal process is super helpful.
+<v Bas Broek>可以真正帮助其他人提供有用的输入，而不是您可能不想要的输入。所以我认为提案流程非常有用。
 
 00:38:09.388 --> 00:38:25.528
-<v Bas Broek>I think it's for us to figure out, for the whole community to figure out hey what is absolutely necessary. Make sure it's like short and sweet, but at the same time also, you know, has the information it needs.
+<v Bas Broek>我认为这是让我们弄清楚，让整个社区弄清楚什么是绝对必要的。确保它既简短又甜美，但同时也知道它需要的信息。
 
 00:38:25.968 --> 00:39:10.498
-<v Garric Nahapetian>One thing I'm struggling with those, like, let's say, I'm excited, I want to make, I want to make an episode and I want to get support for that episode. Like what if no one says they like it and they don't want to hear it. So, like, for you, Bas like, if I created an issue and I don't know, I was posting like links that weren't that interesting. Like, how did we do that? Like it's so hard and I feel like that. That's the distinction between a code centric community, which you can kind of point to, oh oh, this is the way we do it or this is, that might create a bug versus something like podcasting or writing, which is, like so stylistic. There's so much subjectivity.
+<v Garric Nahapetian>有一件事我正在与那些人挣扎，比如，让我们说，我很兴奋，我想制作，我想制作一集，我想得到那一集的支持。就像没有人说他们喜欢它并且他们不想听到它一样。所以，就像，对你来说，Bas，如果我创建了一个问题，我不知道，我发布的链接不是那么有趣。比如，我们是怎么做到的？喜欢这么难，我觉得那样。这是一个以代码为中心的社区之间的区别，你可以指出，哦，哦，这就是我们这样做的方式，或者这就是，这可能会产生一个bug，而不像播客或写作，这就像风格一样。有太多的主观性。
 
 00:39:11.408 --> 00:39:14.568
-<v Garric Nahapetian>Like, how do we make those decisions? Is it
+<v Garric Nahapetian>比如，我们如何做出这些决定？是吗
 
 00:39:15.158 --> 00:39:25.168
-<v Garric Nahapetian>Is it a democracy or to somebody, at the end of the day, just say sorry, like that is uninteresting I just feel like I'm a little worried about that.
+<v Garric Nahapetian>是民主还是某人，在一天结束时，只是说对不起，这样无趣，我觉得我有点担心。
 
 00:39:26.128 --> 00:39:38.948
-<v Bas Broek>I think it's a really hard thing, and I feel that I'm still figuring it out myself. And I couldn't do a lot better at it. I think this is partially like, it will never be completely objective,
+<v Bas Broek>我认为这是一件非常困难的事情，我觉得我自己仍在想着它。我无法做得更好。我认为这有点像，它永远不会完全客观，
 
 00:39:39.678 --> 00:39:42.008
-<v Bas Broek>but the parts that can be objective,
+<v Bas Broek>但可以是客观的部分，
 
 00:39:43.358 --> 00:39:44.638
-<v Bas Broek>we should make them,
+<v Bas Broek>我们应该制作它们，
 
 00:39:45.838 --> 00:39:53.918
-<v Bas Broek>you know, make people aware of it, write it down. Especially with the Swift Weekly Brief, what I think it's hard to.
+<v Bas Broek>你知道，让人们意识到这一点，写下来。特别是对于Swift Weekly Brief，我认为这很难。
 
 00:39:54.618 --> 00:40:05.568
-<v Bas Broek>Communicate is, it's really focusing on, like the open source projects. So what happens from time to time if somebody wrote a supercool blog post,
+<v Bas Broek>沟通是，它真正关注，就像开源项目一样。那么如果有人写了一篇超酷博客文章，会不时发生什么
 
 00:40:06.258 --> 00:40:12.288
-<v Bas Broek>or has a new book on Swift and it's like, that's amazing and I love that you're doing that.
+<v Bas Broek>或者有一本关于Swift的新书，它就像是，这太棒了，我喜欢你这样做。
 
 00:40:12.868 --> 00:40:16.878
-<v Bas Broek>But we are focusing on the open source projects, and this isn't it.
+<v Bas Broek>但我们专注于开源项目，而不是这样。
 
 00:40:17.528 --> 00:40:22.838
-<v Bas Broek>So I think that is something we're struggling or I'm struggling with the Swift Weekly Brief.
+<v Bas Broek>所以我认为这是我们正在努力的事情，或者我正在与Swift Weekly Brief进行斗争。
 
 00:40:23.568 --> 00:40:25.688
-<v Bas Broek>But in general, I think
+<v Bas Broek>但总的来说，我认为
 
 00:40:26.278 --> 00:40:36.498
-<v Bas Broek>if you can try, if we can try to, like be open and just respond to people and explain, like why we wouldn't want to do anything with it or,
+<v Bas Broek>如果你能尝试，如果我们可以尝试，就像开放，只是回应人们并解释，为什么我们不想做任何事情，或者，
 
-// unclear
+
+//不清楚
 00:40:37.008 --> 00:40:40.438
-<v Bas Broek>what would have to change. I think that's the best way forward.
+<v Bas Broek>需要改变什么。我认为这是最好的前进方式。
 
 00:40:40.928 --> 00:40:50.148
-<v Chris Lattner>And I think that we also have something of a gate. I guess in terms of you need to have several different people working together to make a podcast episode.
+<v Chris Lattner>我认为我们也有一些门。我想你需要让几个不同的人一起制作一个播客节目。
 
 00:40:50.728 --> 00:40:55.078
-<v Chris Lattner>And so if there are three or four people that I want to get together and make it, make an episode
+<v Chris Lattner>所以，如果有三四个人想要聚在一起制作，那就制作一集
 
-// unclear, in the weed?
+
+//不清楚，在杂草？
 00:40:55.928 --> 00:41:04.598
-<v Chris Lattner>about something, and if it is kind of in the weeds, it's still vaguely related to the Swift community. And they're all very passion about when make it happen, then
+<v Chris Lattner>关于某事，如果它在杂草中，它仍然与Swift社区有些模糊。然后，他们都非常热衷于何时实现它
 
 00:41:05.928 --> 00:41:13.378
-<v Chris Lattner>I would probably argue that we'd say yes, I think what we need is something like a code of conduct for the show.
+<v Chris Lattner>我可能会说我们会说是的，我认为我们需要的东西就像是节目的行为准则。
 
 00:41:14.028 --> 00:41:14.638
-<v Chris Lattner>but
+<v Chris Lattner>但是
 
 00:41:15.228 --> 00:41:24.938
-<v Chris Lattner>aside just assuming that there's a baseline level of respect and it's good nature, then I think that it would be interesting to see what people come up with and what they want, what they want to talk about.
+<v Chris Lattner>除了假设有一个基线的尊重水平和它的良好性质之外，我认为看到人们想出什么以及他们想要什么，他们想要谈论什么会很有趣。
 
 00:41:25.608 --> 00:41:30.438
-<v Chris Lattner>And even commercial things, I think would be fine if they're interesting and if it's not just a
+<v Chris Lattner>甚至是商业用品，我认为如果它们很有趣并且它不仅仅是一个
 
 00:41:31.028 --> 00:41:33.358
-<v Chris Lattner>a straight advertisement for the technology.
+<v Chris Lattner>该技术的直接广告。
 
 00:41:34.228 --> 00:41:38.338
-<v Bas Broek>Yeah, because I think that like the podcast really allows for anything.
+<v Bas Broek>是的，因为我认为播客真的允许任何事情。
 
 00:41:39.628 --> 00:41:46.788
-<v Bas Broek>And I think that could be part also of the review manager. If we have the review manager for an episode,
+<v Bas Broek>我认为这也可能是评审经理的一部分。如果我们有一集的评论经理，
 
 00:41:47.498 --> 00:41:54.058
-<v Bas Broek>that can be again the person to contact if you're not sure, hey should we include this should we not include this.
+<v Bas Broek>如果您不确定，可以再次联系该人，如果我们不包含此内容，我们应该包含此内容。
 
 00:41:55.838 --> 00:42:08.438
-<v Bas Broek>Or if somebody else comments on a proposal that the review manager can also like, step in there and help the authors to, like, make sure that everybody feels comfortable with what we're doing.
+<v Bas Broek>或者，如果其他人评论了审核经理也喜欢的提案，请介入并帮助作者确保每个人都对我们正在做的事情感到满意。
 
 00:42:08.868 --> 00:42:10.238
-<v Chris Lattner>Right. I think that sounds great.
+<v Chris Lattner>对。我觉得这听起来不错。
 
-// unclear
+
+//不清楚
 00:42:10.828 --> 00:42:21.070
-<v Garric Nahapetian>One thing that I'm still like not sure how to, what, square a circle or circle the square, is like it's an open source community. But
+<v Garric Nahapetian>有一件事我仍然不确定如何，什么，方形圆圈或方形圆圈，就像它是一个开源社区。但
 
 00:42:21.760 --> 00:42:29.210
-<v Garric Nahapetian>you know, Chris, John and I, we started it right? Or if you looked like Swift.org, it's like it's an open source community, but there is a core team.
+<v Garric Nahapetian>你知道吗，克里斯，约翰和我，我们开始做对了吗？或者如果你看起来像Swift.org，它就像是一个开源社区，但是有一个核心团队。
 
 00:42:29.870 --> 00:42:31.310
-<v Garric Nahapetian>And so how do you
+<v Garric Nahapetian>你好
 
 00:42:31.960 --> 00:42:33.270
-<v Garric Nahapetian>be open
+<v Garric Nahapetian>开放
 
 00:42:33.860 --> 00:42:48.300
-<v Garric Nahapetian>and be almost like, I mean, open source doesn't necessarily mean the democracy, but in some ways it feels like it's supposed to be. It's like this utopian way of organizing communities. But at the same time you have like a leadership structure.
+<v Garric Nahapetian>并且几乎就像，我的意思是，开源并不一定意味着民主，但在某些方面它感觉应该是这样。这就像这种组织社区的乌托邦方式。但与此同时，你有一个领导结构。
 
 00:42:49.070 --> 00:43:22.290
-<v Garric Nahapetian>So I guess it kind of goes back to like what you're saying that contributing guidelines or any principal guidelines that you can follow, as long as, like the leaders are following those guidelines. And then there needs to be some way to be, like be held accountable I guess. But that's something I struggle with, like. Immediately I wanted to get the conversations that Chris and John and I were having, like out in the open, like okay, well, this is an open source podcast like, how do we bring people into those conversations? But then I had to remember, like, well we're the core team, or we're the,
+<v Garric Nahapetian>所以我想这可以追溯到你所说的贡献指南或任何你可以遵循的主要指导方针，只要像领导者遵循这些指导方针一样。然后需要有一些方法，比如被认为是负责任的。但这是我挣扎的事情，比如。我想立即得到克里斯和约翰以及我所拥有的对话，就像在公开场合一样，好吧，这是一个开源播客，我们如何将人们引入这些对话？但后来我必须记住，好吧，我们是核心团队，或者我们是，
 
 00:43:23.200 --> 00:43:28.500
-<v Garric Nahapetian>the kind of the founders of it, and so we're the stewards. So we're allowed in some way to have
+<v Garric Nahapetian>它的创始人，所以我们是管家。所以我们可以通过某种方式获得
 
 00:43:28.830 --> 00:43:32.240
-<v Garric Nahapetian>private conversations, I guess. But that's something that I'm struggling with, like how to,
+<v Garric Nahapetian>私人谈话，我想。但那是我正在努力的事情，比如，如何，
 
 00:43:32.780 --> 00:43:33.640
-<v Garric Nahapetian>how to resolve that
+<v Garric Nahapetian>如何解决这个问题
 
 00:43:33.990 --> 00:43:58.240
-<v Chris Lattner>Well and it's still very early days, and so we'll see how things go. One of things we talked about before is that there's a certain amount of we want the idea, and we want the project to continue, even if any one of us got hit by a bus or something, right? And so the way to do that is to make it successful, see it grow, get more people involved, somebody is super passionate and wants to take over, then,
+<v Chris Lattner>嗯，现在还很早，所以我们会看到事情的进展。我们之前谈到的一件事是，我们有一定数量的想法，我们希望项目继续进行，即使我们中的任何一个人被公共汽车或其他东西击中，对吧？因此，做到这一点的方法是让它成功，看到它成长，让更多的人参与进来，有人超级热情并希望接管，然后，
 
 00:43:59.140 --> 00:44:03.210
-<v Chris Lattner>that becomes obvious because they're so involved and they're doing such a great work.
+<v Chris Lattner>变得显而易见，因为他们如此参与并且他们正在做这么棒的工作。
 
 00:44:03.760 --> 00:44:14.000
-<v Chris Lattner>So adding people to that that that team that does that, I think, is great. But in the meantime, I think the three of us could be review managers and
+<v Chris Lattner>因此，我认为，那些支持那个团队的人很棒。但与此同时，我认为我们三个人可能是审查经理和
 
 00:44:14.460 --> 00:44:20.800
-<v Chris Lattner>help make things happen and contribute and push and do what it takes to get it off the ground.
+<v Chris Lattner>帮助让事情发生并做出贡献，并推动并尽一切努力实现目标。
 
 00:44:21.370 --> 00:44:24.530
-<v Bas Broek>I think that's something to figure out. You will see
+<v Bas Broek>我认为这是值得弄清楚的。你会看见
 
-// unclear
+
+//不清楚
 00:44:25.430 --> 00:44:28.800
-<v Bas Broek>who the people are aloud, jump in more regularly.
+<v Bas Broek>人们大声朗读，更频繁地跳进去。
 
 00:44:29.940 --> 00:44:37.330
-<v Bas Broek>And go from there, something I actually really liked in one of the open source projects I worked on,
+<v Bas Broek>从那里开始，我在其中一个开源项目中真正喜欢的东西，
 
 00:44:38.560 --> 00:44:48.750
-<v Bas Broek>it's network abstraction layer, Moya. And it was started by Ash Furrow and Orta.
+<v Bas Broek>它是网络抽象层，Moya。它由Ash Furrow和Orta发起。
 
-// unclear
+
+//不清楚
 00:44:49.530 --> 00:44:58.740
-<v Bas Broek>And they work at ?? and what they are doing at ??, I think, with most open source projects is if you contribute anything, if you get anything merged,
+<v Bas Broek>他们在？我认为，对于大多数开源项目来说，如果你做出任何贡献，如果你得到任何合并，
 
 00:44:59.270 --> 00:45:02.650
-<v Bas Broek>you get, like you get invited to the organization.
+<v Bas Broek>你得到了，就像你被邀请加入该组织一样。
 
 00:45:03.230 --> 00:45:03.770
-<v Garric Nahapetian>Oh wow.
+<v Garric Nahapetian>哦哇。
 
 00:45:04.430 --> 00:45:18.050
-<v Bas Broek>And that allows you to do anything in the repository basically. I mean, the master branch is protected, but you can label issues and do anything. And I think that is a really interesting way to,
+<v Bas Broek>这使您可以基本上在存储库中执行任何操作。我的意思是，主分支受到保护，但您可以标记问题并执行任何操作。我认为这是一个非常有趣的方式，
 
 00:45:18.690 --> 00:45:22.050
-<v Bas Broek>you know, give people more power and just
+<v Bas Broek>你知道，给予人们更多力量和公正
 
 00:45:23.030 --> 00:45:34.470
-<v Bas Broek>build that level of trust that anybody can just do anything in the project. And I think that really worked well for that project. And maybe it's something to consider for this as well.
+<v Bas Broek>建立任何人都可以在项目中做任何事情的信任级别。我认为这对该项目非常有效。也许这也是需要考虑的事情。
 
 00:45:34.880 --> 00:45:38.060
-<v Chris Lattner>Yeah, I think that's a great idea. I mean, it also combines well with get,
+<v Chris Lattner>是的，我认为这是一个好主意。我的意思是，它也与get结合得很好，
 
 00:45:38.630 --> 00:45:41.830
-<v Chris Lattner>get, makes it very difficult to do anything with too destructive.
+<v Chris Lattner>得到，让任何过于具有破坏性的事情变得非常困难。
 
 00:45:42.430 --> 00:45:47.160
-<v Chris Lattner>I'm usually not smart enough to figure out how to fix it, but, I'm told that people can.
+<v Chris Lattner>我通常不够聪明，无法弄清楚如何修复它，但是，我被告知人们可以。
 
 00:45:48.230 --> 00:45:57.340
-<v Garric Nahapetian>How did you how you guys navigated that Bas? Is it just you and Jesse that are, like the owners, I guess the repository owners. Have you expanded that group?
+<v Garric Nahapetian>你是怎么跟那些人一起航行的？只是你和Jesse，就像所有者一样，我想是存储库所有者。你扩大了这个群体吗？
 
 00:45:58.590 --> 00:46:02.530
-<v Bas Broek>I mean, Jesse steped away a bit.
+<v Bas Broek>我的意思是，Jesse稍微走了一步。
 
 00:46:03.490 --> 00:46:08.740
-<v Bas Broek>And he made that decision right, so I think that's, that's really cool, that's possible. And it worked out.
+<v Bas Broek>他做出了正确的决定，所以我认为那是真的很酷，这是可能的。它成功了。
 
 00:46:09.330 --> 00:46:15.450
-<v Bas Broek>So I think, I'm not even sure, I think it's just us as like the
+<v Bas Broek>所以我想，我甚至不确定，我认为这就像我们一样
 
 00:46:16.300 --> 00:46:25.529
-<v Bas Broek>the owners of the organization. And then the writers have some more excess to be able to push to the repository.
+<v Bas Broek>组织的所有者。然后编写者有更多的东西可以推送到存储库。
 
 00:46:26.549 --> 00:46:53.169
-<v Bas Broek>And that has worked out, I think, for now. But like, I'm definitely open. And I know that Jesse is also open to anybody else jumping in. And I mean, I don't expect that I will be there forever, right? So I would love to, like I think that would be the great achievement to be able to, at some point say, hey, I enjoyed this, let's give it to somebody else now and let them do their thing and push it forward.
+<v Bas Broek>我认为，现在已经成功了。但就像，我绝对是开放的。而且我知道Jesse对任何其他人都是开放的。我的意思是，我不指望我会永远在那里，对吗？所以我很乐意，就像我认为那将是一项伟大的成就，能够在某种程度上说，嘿，我喜欢这一点，现在让我们把它交给别人，让他们做他们的事情并推动它前进。
 
 00:46:54.489 --> 00:46:56.509
-<v Garric Nahapetian>Yeah might mentorship and
+<v Garric Nahapetian>是的，可能是指导和
 
 00:46:57.449 --> 00:47:10.359
-<v Garric Nahapetian>sort of preparing your successor is like one of the most important things that any leader has to do, right? It's something that I learned through my work with Learn Swift LA and Swift Coders LA.
+<v Garric Nahapetian>准备你的继任者就像任何领导者必须做的最重要的事情之一，对吧？这是我通过与Learn Swift LA和Swift Coders LA合作学到的东西。
 
 00:47:10.969 --> 00:47:23.419
-<v Garric Nahapetian>It kind happened naturally, didn't think about it until much later. But it was like at some point I lost my drive to lead the meetup, so I wanted to do something else. And so who do you mentor
+<v Garric Nahapetian>这种情况很自然地发生，直到很久以后才考虑它。但是在某些时候我失去了领导聚会的动力，所以我想做别的事。那么你是谁的导师
 
 00:47:23.999 --> 00:47:27.359
-<v Garric Nahapetian>to take over for you when you, when you move on?
+<v Garric Nahapetian>当你继续前进的时候接替你？
 
 00:47:28.249 --> 00:47:30.879
-<v Garric Nahapetian>And so have you actually started to,
+<v Garric Nahapetian>你真的开始了，
 
 00:47:31.649 --> 00:47:42.259
-<v Garric Nahapetian>like incorporate that into your sort of mindset? With the weekly brief you've been, you've been taking it over for a while now, right? It's been like at least six months or a year.
+<v Garric Nahapetian>喜欢把它融入你的心态吗？随着你每周的简报，你现在已经接受了一段时间，对吧？这至少是六个月或一年。
 
 00:47:42.799 --> 00:47:50.659
-<v Garric Nahapetian>Like how do you start to mentor like the next person to take over for when you're, I don't know, when you do the next thing?
+<v Garric Nahapetian>就像你是如何开始像下一个人那样接受指导的时候，我不知道，当你做下一件事的时候？
 
 00:47:51.509 --> 00:47:54.419
-<v Bas Broek>Um, yeah. I mean, I think it's been about a year now,
+<v Bas Broek>嗯，是的。我的意思是，我认为已经有一年了，
 
 00:47:55.159 --> 00:48:10.259
-<v Bas Broek>but it's something I was aware from the beginning. Like I said, I did an unknown newsletter, like years and years ago. And at some point, you know, you don't enjoy it as much anymore. So I think that's something I was aware from the beginning.
+<v Bas Broek>但这是我从一开始就意识到的。就像我说的那样，我做了一个不知名的时事通讯，就像多年前一样。在某些时候，你知道，你不再享受它了。所以我认为这是我从一开始就意识到的。
 
 00:48:12.709 --> 00:48:15.809
-<v Bas Broek>At the same time, I don't want to force anybody.
+<v Bas Broek>与此同时，我不想逼迫任何人。
 
 00:48:16.369 --> 00:48:18.739
-<v Bas Broek>So it's, you know, it happens when it happens,
+<v Bas Broek>所以，它知道，当它发生时，它会发生，
 
 00:48:19.394 --> 00:48:22.524
-<v Bas Broek>so it's not really something I'm concerned of.
+<v Bas Broek>所以这不是我真正关心的事情。
 
 00:48:23.664 --> 00:48:44.804
-<v Bas Broek>But like, there's actually been somebody, that I got to talk to and got to meet at Try! Swift in New York in September, and he was super excited about the project. He was excited about the podcast that Benedikt and I are doing. And he's been helping out, Kristaps Grinbergs is his name, and,
+<v Bas Broek>但是，实际上有人，我得和他们交谈并在Try尝试见面！9月在纽约斯威夫特，他对这个项目非常兴奋。他对Benedikt和我正在做的播客感到很兴奋。他一直在帮忙，Kristaps Grinbergs是他的名字，而且，
 
 00:48:45.544 --> 00:48:57.704
-<v Bas Broek>I think that's super awesome, and maybe at some point he wants to get more involved or take over more issues or maybe he doesn't, right? And I haven't like, reached out or anything. I just want to,
+<v Bas Broek>我觉得这太棒了，也许在某些时候他想要更多地参与或接管更多问题，或者他可能不会，对吧？而且我不喜欢，伸出手或任何东西。我只想，
 
-// unclear
+
+//不清楚
 00:48:58.744 --> 00:49:01.224
-<v Bas Broek>like let it set and see where it goes.
+<v Bas Broek>喜欢让它设置并查看它的去向。
 
-// unclear, proactive?
+
+//不清楚，主动？
 00:49:01.924 --> 00:49:14.834
-<v Bas Broek>But I think if there is somebody that I feel like can take over, I would definitely like approach them and say hey, you know, be proactive about it and see if we can take it to the next level.
+<v Bas Broek>但我认为如果有人认为我可以接管，我肯定会接近他们并说嘿，你知道，主动一下，看看我们是否可以把它提升到一个新的水平。
 
 00:49:15.264 --> 00:49:20.304
-<v Chris Lattner>But I think it's also great that you're enjoying it right now. It's a good thing. So
+<v Chris Lattner>但我认为你现在享受它也很棒。那是一件好事。所以
 
 00:49:21.064 --> 00:49:24.214
-<v Chris Lattner>it's not that everything has to be headed off. 
+<v Chris Lattner>并不是说一切都必须要结束。
 
 00:49:24.214 --> 00:49:31.724
-<v Bas Broek>If I don't enjoy it any more then I would definitely mean like start to be more proactive about it because that doesn't benefit anybody, I think.
+<v Bas Broek>如果我不再喜欢它，那么我肯定意味着开始更积极主动，因为这对任何人都没有好处，我想。
 
 00:49:31.834 --> 00:49:45.004
-<v Chris Lattner>And when Jesse got to the point where he was ready to be done with it, I thought it was kind of interesting how him very publicly saying hey, I'm done with this. If anybody else is interested, they can pick it up, but otherwise it's done.
+<v Chris Lattner>当Jesse到达他已经准备好完成它的时候，我觉得他非常公开地说他很有意思，我已经完成了这件事。如果有其他人感兴趣，他们可以拿起它，但否则就完成了。
 
 00:49:45.524 --> 00:49:49.934
-<v Chris Lattner>I was kind of the impedes to reach the next level right? And
+<v Chris Lattner>我有点不能达到下一个级别吗？和
 
 00:49:51.044 --> 00:49:59.884
-<v Chris Lattner>you know, there's kind of in between way where you get people involved and people can work together on it, and working together with it with other people often makes it more fun too. So,
+<v Chris Lattner>你知道，在这种方式之间你可以让人们参与进来，人们可以一起工作，与其他人一起工作往往也会让人感觉更有趣。所以，
 
 00:50:00.124 --> 00:50:01.504
-<v Bas Broek>Oh, yeah, definitely. Because,
+<v Bas Broek>哦，是的，当然。因为，
 
 00:50:02.094 --> 00:50:05.474
-<v Bas Broek>you know, doing something on your own is fun.
+<v Bas Broek>你知道，自己做一些事情很有趣。
 
 00:50:06.194 --> 00:50:10.504
-<v Bas Broek>But, you know, getting some input from other people and working together
+<v Bas Broek>但是，你知道，从其他人那里得到一些意见并一起工作
 
 00:50:11.554 --> 00:50:14.604
-<v Bas Broek>in the long run is so much, so much more fun.
+<v Bas Broek>从长远来看是如此之多，更有趣。
 
 00:50:15.364 --> 00:50:19.004
-<v Bas Broek>So I think that's, yeah, that's definitely cool that it worked out that way.
+<v Bas Broek>所以我认为，是的，这种方式确实很酷。
 
 00:50:19.552 --> 00:50:31.202
-<v Bas Broek>And at the same time, I think it's also really good on Jesse that he was ready to, you know, stop and give it up to somebody else if he, if somebody wanted to. But also
+<v Bas Broek>与此同时，我认为对杰西来说，他已经准备好了，如果有人愿意的话，他会停下来把它交给其他人。但是也
 
 00:50:31.812 --> 00:50:39.192
-<v Bas Broek>being at a stage where he was also able to give it up right? because that's also not easy, it was his baby.
+<v Bas Broek>正处于一个他能够正确放弃的阶段？因为这也不容易，这是他的宝贝。
 
 00:50:40.552 --> 00:50:41.262
-<v Bas Broek>And
+<v Bas Broek>和
 
 00:50:42.052 --> 00:50:47.842
-<v Bas Broek>it's not easy to get to the point where you feel comfortable having quite a bit following
+<v Bas Broek>要让自己感觉很舒服，并不容易
 
 00:50:48.852 --> 00:50:52.212
-<v Bas Broek>to say, hey, let's stop this if nobody's interested,
+<v Bas Broek>说，嘿，如果没有人感兴趣的话，让我们停下来吧
 
 00:50:52.462 --> 00:51:01.762
-<v Chris Lattner>Yeah, it's actually that self-honesty to know when your heart is just not into it, is, you know, actually pretty hard because you have to
+<v Chris Lattner>是的，实际上是自我诚实地知道你的心脏何时不进入它，你知道，其实很难，因为你必须
 
-// unclear
+
+//不清楚
 00:51:03.452 --> 00:51:12.252
-<v Chris Lattner>get to cross ?? of the fact that you're not really into it. But you will still want to see it succeed. And that causes conflict sometimes.
+<v Chris Lattner>越过?? 事实上，你并没有真正投入其中。但你仍然希望看到它成功。这有时会引发冲突。
 
 00:51:12.502 --> 00:51:24.042
-<v Garric Nahapetian>Yeah. I mean, I went through that with the, with you, Chris, on this podcast. It was actually interesting. I was very honest about that on the first episode. And I got a lot of positive feedback from people in the community,
+<v Garric Nahapetian>是的。我的意思是，在这个播客中，我和你一起经历了克里斯。这真的很有趣。第一集我对此非常诚实。我从社区中得到了很多积极的反馈，
 
 00:51:24.632 --> 00:51:27.762
-<v Garric Nahapetian>you know writing me on Twitter or iMessage,
+<v Garric Nahapetian>你知道在Twitter或iMessage上写我，
 
 00:51:28.302 --> 00:51:31.332
-<v Garric Nahapetian>saying, while Garric I really appreciate you,
+<v Garric Nahapetian>说，而Garric我非常感谢你，
 
 00:51:32.042 --> 00:51:38.562
-<v Garric Nahapetian>you know talking about how you went through this process of not feeling that into it. You know, being honest with yourself,
+<v Garric Nahapetian>你知道如何谈论你是如何经历这种不感觉到它的过程。你知道，对自己诚实，
 
 00:51:39.322 --> 00:52:10.762
-<v Garric Nahapetian>it was inspiring. It inspired me, or I'm going through the same thing. I mean, man, I can't imagine like, what was going on in Jesse's mind? He had to be honest with himself. It was probably a big relief. And then to have someone like you Bas to take it over, it must feel really awesome. He must have a sense of pride to feel like it is gonna be, you know continue to be successful. And I want to end with one sort of thought in a question for you, Bas, which is my thought when I, now that I'm participating in this,
+<v Garric Nahapetian>鼓舞人心。它启发了我，或者我正在经历同样的事情。我的意思是，男人，我无法想象，杰西的脑海里发生了什么？他必须诚实对待自己。这可能是一个很大的缓解。然后让像你这样的人接受它，它必须感觉非常棒。他必须有一种自豪感才能感觉到它会是，你知道继续成功。我想在你的问题中以一种想法结束，Bas，这是我的想法，现在我参与了这个，
 
 00:52:11.352 --> 00:52:19.062
-<v Garric Nahapetian>what we're talking about is like a codeless open source Swift community, I thought about how, in some small way, like the future of
+<v Garric Nahapetian>我们所谈论的就像一个无代码的开源Swift社区，我想到了如何以一种小的方式，就像未来的
 
 00:52:19.734 --> 00:52:31.624
-<v Garric Nahapetian>people organizing, I feel like some communities will become more and more open source and not a codeless communities. So well there's a resident community, let's say or,
+<v Garric Nahapetian>人们组织起来，我觉得有些社区会变得越来越开源而不是无代码的社区。那么有一个居民社区，让我们说或者，
 
 00:52:32.794 --> 00:52:49.494
-<v Garric Nahapetian>you know, writers or film producers or anything. I can imagine a subset of those communities being open source, like using the concept of an open source model and perhaps even version control with git. I really do see that in the future. And I think,
+<v Garric Nahapetian>你知道，作家或电影制片人还是其他什么。我可以想象这些社区的一部分是开源的，比如使用开源模型的概念，甚至可能使用git进行版本控制。我在将来确实看到了这一点。我想，
 
 00:52:50.484 --> 00:52:56.094
-<v Garric Nahapetian>a lot of especially with everything going decentralized, and so I feel like the work that we're doing
+<v Garric Nahapetian>很多特别是一切都分散了，所以我觉得我们正在做的工作
 
 00:52:57.134 --> 00:53:03.164
-<v Garric Nahapetian>with this project really is informing how communities will be organized, you know,
+<v Garric Nahapetian>这个项目真的告诉我们社区将如何组织，你知道，
 
 00:53:03.794 --> 00:53:09.494
-<v Garric Nahapetian>moving forward and especially the work that you're doing with Swift Weekly Brief. And so what I wanted to ask you Bas is,
+<v Garric Nahapetian>向前迈进，特别是你在Swift Weekly Brief上做的工作。所以我想问你Bas是，
 
 00:53:10.154 --> 00:53:31.624
-<v Garric Nahapetian>like what would be one of the most helpful things, like moving forward to make your job easier, make the Swift Weekly Brief more successful. Like what, is it more contributors, more authors, more attention, more readership. What could help make it more successful as an open source community in project?
+<v Garric Nahapetian>喜欢什么是最有用的事情，比如前进让你的工作变得更轻松，让Swift Weekly Brief更加成功。喜欢什么，是更多的贡献者，更多的作者，更多的关注，更多的读者。什么可以帮助它作为项目中的开源社区更成功？
 
 00:53:31.634 --> 00:53:35.944
-<v Bas Broek>I think, I think the most important thing is contributors and,
+<v Bas Broek>我认为，我认为最重要的是贡献者，
 
 00:53:36.184 --> 00:53:38.264
-<v Bas Broek>like contributors can be writers
+<v Bas Broek>喜欢贡献者可以是作家
 
 00:53:38.974 --> 00:53:43.144
-<v Bas Broek>that it can be anything. If people are excited to
+<v Bas Broek>它可以是任何东西。如果人们很兴奋
 
 00:53:44.164 --> 00:53:47.624
-<v Bas Broek>do something to help the newsletter forward,
+<v Bas Broek>做些事来帮助推送时事通讯，
 
 00:53:48.644 --> 00:53:53.694
-<v Bas Broek>I think that will never, like, exceed anything like,
+<v Bas Broek>我认为永远不会超过任何类似的东西，
 
 00:53:54.354 --> 00:54:00.094
-<v Bas Broek>that can be retwitting that can be writing a blog post about. It can be contributing to the issue anything.
+<v Bas Broek>可以写博客文章。它可以为这个问题做出贡献。
 
 00:54:00.664 --> 00:54:19.094
-<v Bas Broek>Um, but you need to have a set of people that, want to contribute and want to see this project succeed. And same thing goes for sponsorships. We have sponsorship. So also, those people are needed. And
+<v Bas Broek>嗯，但你需要有一组人，想要贡献并希望看到这个项目成功。赞助也是如此。我们有赞助。所以，那些人也是需要的。和
 
 00:54:19.904 --> 00:54:24.714
-<v Bas Broek>yeah, it's just having people involved in the project one way or another.
+<v Bas Broek>是的，只是让人们以这种或那种方式参与项目。
 
 00:54:25.804 --> 00:54:27.614
-<v Garric Nahapetian>Awesome. Thank you so much Bas.
+<v Garric Nahapetian>太棒了。非常感谢Bas。
 
-// unclear, last word
+
+//不清楚，最后一句话
 00:54:28.344 --> 00:54:30.834
-<v Garric Nahapetian>Chris, you have anything to end on that now?
+<v Garric Nahapetian>克里斯，你现在有什么可以结束的吗？
 
 00:54:31.094 --> 00:54:42.614
-<v Chris Lattner>Yeah I mean, so I think the point the meta point you're making about how communities organize and how communication works in the new, the new fangled Internet era is really interesting.
+<v Chris Lattner>是的，我的意思是，所以我认为关于社区如何组织以及如何在新的，新兴的互联网时代进行沟通的关键点非常有趣。
 
 00:54:43.204 --> 00:54:52.714
-<v Chris Lattner>To me, I see almost as the difference between the ephemeral communication that persistently happens over email on social media and all this kind of stuff and,
+<v Chris Lattner>对我来说，我几乎看到了社交媒体上电子邮件持续发生的短暂交流与所有这些东西的区别，
 
 00:54:53.234 --> 00:55:04.514
-<v Chris Lattner>the goal of curation, which is to try to take a lot that ephemeral stuff and turn it into something that's a little bit more polish so last a little bit longer and therefore a little bit more valuable.
+<v Chris Lattner>策展的目标，就是试图把那些短暂的东西拿出来，然后把它变成更有点夸张的东西，这样可以持续一点点，因此更有价值。
 
 00:55:05.114 --> 00:55:07.614
-<v Chris Lattner>And the brief, for example, is a great,
+<v Chris Lattner>例如，简介是一个伟大的，
 
 00:55:08.634 --> 00:55:38.114
-<v Chris Lattner>great way of taking a lot of really interesting content that not everybody may have seen and pulling together one place so that people can have a better index of it. But it's also the editing and the concept of, the curation of what is really important out there versus what is, what is less interesting for most people. And in the case of the podcast, there's a lot of stuff going on, and obviously we can't talk about everything that happens. And so the things that end up on the show will hopefully be the most interesting
+<v Chris Lattner>采取很多非常有趣的内容的好方法，这些内容并非每个人都可以看到并将一个地方拉到一起，以便人们可以获得更好的索引。但它也是编辑和概念，对于那些真正重要的东西而言，对大多数人来说，什么是不那么有趣。在播客的情况下，有很多东西正在发生，显然我们无法谈论发生的一切。所以最终在节目中的东西有望成为最有趣的
 
 00:55:38.804 --> 00:55:41.174
-<v Chris Lattner>to a wide variety of people, and
+<v Chris Lattner>对各种各样的人，和
 
 00:55:41.974 --> 00:55:45.714
-<v Chris Lattner>so that the curation part, I think, is a really interesting aspect of it.
+<v Chris Lattner>我认为，策展部分是一个非常有趣的方面。
 
 00:55:47.284 --> 00:56:10.214
-<v Garric Nahapetian>Right on, right on. All right, everybody. So last words. You know, I just want to let everybody out there know we're listening to you and we are working to empower you to contribute. If you are interested in creating an episode in any role, whether you want to be a host or an editor or a publisher,
+<v Garric Nahapetian>马上，马上。好的，大家好 所以最后的话。你知道，我只是想让每个人都知道我们正在听你的，我们正努力让你有所贡献。如果您有兴趣创建任何角色的剧集，无论您是想成为主持人，还是编辑或出版商，
 
 00:56:10.804 --> 00:56:20.024
-<v Garric Nahapetian>or you just wanna suggest the topic, try creating. Please create a proposal, pull request and let's work through this experiment together.
+<v Garric Nahapetian>或者你只是想建议这个话题，尝试创造。请创建一个提案，提取请求，让我们一起完成这个实验。
 
 00:56:20.934 --> 00:56:21.634
-<v Garric Nahapetian>It is,
+<v Garric Nahapetian>是的，
 
 00:56:22.374 --> 00:56:28.294
-<v Garric Nahapetian>the intention is to help, you know, get you to contribute and empower your, you know,
+<v Garric Nahapetian>目的是帮助，你知道，让你做出贡献并授权你，你知道，
 
-// unclear, funnel?
+
+//不清楚，漏斗？
 00:56:29.164 --> 00:56:48.664
-<v Garric Nahapetian>your passion, basically allow you to funnel your energy that you want to contribute. So we really are trying to do that. And again it is an experiment. I don't know if it's gonna work, but thank you for your contributions in advance. So, Bas, Chris, people want to contact you guys Twitter what you guys prefer,
+<v Garric Nahapetian>你的激情，基本上可以让你为你想贡献的能量汇集起来。所以我们真的想做到这一点。这又是一次实验。我不知道它是否会奏效，但感谢您提前做出的贡献。所以，Bas，Chris，人们想联系你们Twitter你们喜欢什么，
 
 00:56:49.054 --> 00:57:03.884
-<v Bas Broek>Okay, so you can reach me on Twitter. That's the most easiest way probably. And my Twitter handle is @basthomas, which were probably add to some notes for those who are not aware how to spell that.
+<v Bas Broek>好的，所以你可以在Twitter上联系我。这可能是最简单的方法。而我的推特手柄是@basthomas，可能会为那些不知道如何拼写的人添加一些注释。
 
 00:57:04.074 --> 00:57:06.644
-<v Garric Nahapetian>Ah, yeah, definitely include those in the show notes.
+<v Garric Nahapetian>啊，是的，肯定包括演出笔记中的那些。
 
 00:57:06.894 --> 00:57:11.484
-<v Chris Lattner>Yeah you can find me on Twitter at, @clattner_llvm
+<v Chris Lattner>是的，你可以在Twitter上找到我，@ clattner_llvm
 
 00:57:12.174 --> 00:57:13.484
-<v Chris Lattner>Where can people find you Garric?
+<v Chris Lattner>人们在哪里可以找到Garric？
 
 00:57:14.254 --> 00:57:16.514
-<v Garric Nahapetian>Twitter is the best,
+<v Garric Nahapetian> Twitter是最好的，
 
 00:57:17.294 --> 00:57:23.484
-<v Garric Nahapetian>@Garricn on Twitter. And,
+<v Garric Nahapetian> Twitter上的@Garricn。和，
 
 00:57:24.054 --> 00:57:26.984
-<v Garric Nahapetian>yeah, I mean, feel free to reach out to me with anything if you want,
+<v Garric Nahapetian>是的，我的意思是，如果你愿意，可以随意与我联系，
 
 00:57:28.034 --> 00:57:36.884
-<v Garric Nahapetian>I don't know if you have any questions about starting a meetup or if you want to contribute to the podcast. Yeah, feel free to just, I think my DMs are open so you can just DM me.
+<v Garric Nahapetian>我不知道您是否有任何关于开始聚会的问题，或者您是否想要为播客做出贡献。是的，请随意，我认为我的DM是开放的，所以你可以只是DM我。
 
 00:57:37.874 --> 00:57:42.924
-<v Bas Broek>Yeah. And then there's also a Twitter handle for the podcast itself. What is that Garric?
+<v Bas Broek>是的。然后还有播客本身的Twitter手柄。什么是Garric？
 
 00:57:43.084 --> 00:57:51.184
-<v Garric Nahapetian>Bas you're so awesome. It is @theswifpodcast. I don't know how we got that. That's a good one.
+<v Garric Nahapetian> Bas你太棒了。这是@theswifpodcast。我不知道我们是怎么做到的。这是一个很好的。
 
 00:57:51.844 --> 00:57:56.484
-<v Chris Lattner>I think it's because the Swift Community Podcast was too long for Twitter's little brain to handle.
+<v Chris Lattner>我认为这是因为Swift社区播客对于Twitter的小脑子来说太长了。
 
 00:57:57.324 --> 00:58:09.624
-<v Garric Nahapetian>Exactly. Exactly. All right, guys, thank you so much for coming on the show today. And I look forward to contributing to this project with you in the future.
+<v Garric Nahapetian>完全正确。究竟。好的，伙计们，非常感谢你今天参加这个节目。我期待着在未来与您一起为这个项目做出贡献。
 
 00:58:10.144 --> 00:58:12.654
-<v Chris Lattner>Yeah fantastic. I can't wait to hear what people have to say and
+<v Chris Lattner>太棒了。我迫不及待地想听听人们说些什么
 
 00:58:12.664 --> 00:58:15.714
-<v Garric Nahapetian>what we do for episode three.
+<v Garric Nahapetian>我们为第3集做了什么。
 
 00:58:15.714 --> 00:58:17.414
-<v Bas Broek>Same for me. Thanks also for inviting me.
+<v Bas Broek>对我而言相同。还要感谢邀请我。
 
 00:58:18.584 --> 00:58:20.784
-<v Bas Broek>and hope to be back someday.
+<v Bas Broek>希望有一天能回来。
 
 00:58:22.781 --> 00:58:25.181
-<v Garric Nahapetian>And that's the show ladies and gentlemen,
+<v Garric Nahapetian>那是女士们，先生们，
 
 00:58:25.721 --> 00:58:37.461
-<v Garric Nahapetian>feel free to share the show with a friend. Leave a review on iTunes or recommend us on Overcast. If you have any questions, comments or you just want to say hi, contact me on Twitter.
+<v Garric Nahapetian>随时与朋友分享这个节目。在iTunes上发表评论或在Overcast上推荐我们。如果您有任何问题，意见或者您只想打个招呼，请在Twitter上与我联系。
 
 00:58:37.971 --> 00:58:41.941
-<v Garric Nahapetian>Until next time. Go swiftly my friends.
+<v Garric Nahapetian>直到下一次。快点去吧我的朋友吧。
