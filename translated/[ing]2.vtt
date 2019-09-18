@@ -12,35 +12,34 @@ Community Podcast repo at https://github.com/SwiftCommunityPodcast/podcast.
 Thank you!
 
 00:00:08.900 --> 00:00:24.000
-<v Garric Nahapetian>大家好，欢迎来到 Swift 社区广播。我的名字是 Garric，也是大家今天这集广播的主持人。和我一起主持节目的还有两位主持人。跟大家问声好，Chris。还有 Bas Broek 也加入我今天的主持。欢迎来到节目，Bas.
+<v Garric Nahapetian>大家好，欢迎来到 Swift 社区广播。我的名字是 Garric，也是大家今天这集广播的主持人。和我一起主持节目的还有两位主持人。跟大家问声好，Chris。还有 Bas Broek 今天也来了。欢迎来到节目，Bas.
 
 00:00:19.092 --> 00:00:19.750
 <v Chris Lattner>大家好.
 
 00:00:24.390 --> 00:00:26.290
-<v Bas Broek>大家好，很高性来到节目.
+<v Bas Broek>大家好，很高兴来到节目.
 
 00:00:26.710 --> 00:00:35.910
 <v Garric Nahapetian>是的。感谢你来到这里。每个人都很激动！没错！我们做到了。我们来了。喔唔，我的天啊。就像这样……
-
 
 00:00:35.920 --> 00:00:37.610
 <v Chris Lattner>我们活到第二集了。
 
 00:00:37.840 --> 00:01:02.250
-<v Garric Nahapetian>是的，走到如今这一步确实需要很大的努力。这里面的事情很多。计划，构思，并且一旦你准备好记录检查输入和所有这些东西我们已经做了，我们在这里。我们也做到了。并且我只想对你们俩说声恭喜。你们今天完成一件大事。你们应该自豪。我认为在这一集之后，你就可以退休了。
+<v Garric Nahapetian>是的，走到如今这一步确实需要很大的努力。这里面的事情很多。要做计划，想注意，并且准备好录音的时候还要检查录音设备。所有这些东西我们已经做了，我们在这里。我们也做到了。并且我只想对你们俩说声恭喜。你们今天完成一件大事。你们应该自豪。我认为在这一集之后，你就可以退休了。
 
 00:01:03.390 --> 00:01:06.270
 <v Chris Lattner>好的。我想你在这儿喝的咖啡有点太多了。
 
 00:01:08.440 --> 00:01:15.750
-<v Garric Nahapetian>是的，还好我没喝那个，一罐红牛，Lucy。我想是的，Lucy。那罐红牛在哪？她像他一样真的很老，我就把它丢了。我想是的，不，我想喝喝它的。
+<v Garric Nahapetian>是的，还好我没喝那个，我选了一罐红牛。我想是的，Lucy。那罐红牛在哪？她像他一样真的很老，我就把它丢了。不过，我想喝喝它的。（不太确定想表达的意思）
 
 00:01:16.700 --> 00:01:30.470
-<v Garric Nahapetian>好的，对于那些不知道的人。Bas，你能自我介绍一下吗？所以你就是《Swift 每周简报》的负责人。你能给我们简单介绍一下《Swift 每周简报》吗？
+<v Garric Nahapetian>好的，对于那些不知道的听众。Bas，你能自我介绍一下吗？你是《Swift 每周简报》的负责人。你能给我们简单介绍一下《Swift 每周简报》吗？
 
 00:01:31.330 --> 00:01:37.350
-<v Bas Broek>是的。所以《Swift 每周简报》不是每周更新的。每两周才更新一次。
+<v Bas Broek>是的。《Swift 每周简报》不是每周更新的。每两周才更新一次。
 
 00:01:38.320 --> 00:01:40.280
 <v Bas Broek>但这是一份时事通讯。
@@ -55,13 +54,13 @@ Thank you!
 <v Bas Broek>以及社区里发生的任何事情。
 
 00:02:01.905 --> 00:02:10.725
-<v Bas Broek>人们写关于 Swift 内部的博客。还有 Swift 更新换代的过程以及论坛上发生的一切。
+<v Bas Broek>人们写关于 Swift 内部的博客。还有 Swift 更新换代过程中以及在论坛上发生的事情。
 
 00:02:11.585 --> 00:02:24.005
 <v Garric Nahapetian>对。所以《Swift 每周简报》。你知道的，我每隔一周收到一次。我可以阅读它，基本上保持跟 Swift 开源项目同步更新。它是由 Jesse Squires 创建的。你什么时候接手的？
 
 00:02:24.665 --> 00:02:32.485
-<v Bas Broek>所以，是的。Jesse Squire 开始运营的。基本上，当 Swift 是开源的时候就开始的，所以我认为他做了头两期。
+<v Bas Broek>是的。Jesse Squire 开始运营的。基本上，当 Swift 开源的时候他就开始了，所以我认为他做了头两期。
 
 00:02:33.015 --> 00:02:34.325
 <v Bas Broek>只发布在他的博客上。
@@ -69,15 +68,14 @@ Thank you!
 00:02:35.285 --> 00:02:50.605
 <v Bas Broek>然后他把它转交给一个开源组织。这样才更容易与他人合作。我不知道是什么时候，但在有些时候他会跳过一集，因为他在度假。
 
-
 00:02:51.145 --> 00:03:01.005
-<v Bas Broek>他根本上没察觉这件事。我想他发布的时候是这样的，嘿，这周没有简报哦。我们下周才恢复。我就会说，嘿，我们走吧
+<v Bas Broek>他根本上没察觉这件事。我想他发布的时候是这样的，嘿，这周没有简报哦。我们下周才恢复。我就会说，嘿，我们走吧。
 
 00:03:01.895 --> 00:03:05.805
 <v Bas Broek>我跟他聊了聊，看看为什么，比如，原因是什么啊？也许他需要一些帮助。
 
 00:03:06.445 --> 00:03:13.705
-<v Bas Broek>所以我基本上只是问他，嘿，你需要帮助吗?或者，我可以下次补吗?事情就是这样开始的。
+<v Bas Broek>所以我基本上只是问他，嘿，你需要帮助吗？或者，我可以下次补吗？事情就是这样开始的。
 
 00:03:14.365 --> 00:03:26.145
 <v Garric Nahapetian>太棒了。所以我想详细介绍一下《Swift 每周简报》。这就是今天这期节目的主题。但在那之前，Chris，你能告诉我们，John Sundell 在哪吗？
@@ -86,113 +84,102 @@ Thank you!
 <v Chris Lattner>这是个好问题。我不知道。我最近没见到他。
 
 00:03:29.325 --> 00:03:41.615
-<v Chris Lattner>所以我们都还在想这个节目的形式，并且我们已经有了一些想法。所以第一个想法是，由于它是来源于社区和为社区服务的，所以有客人真的没有意义。
+<v Chris Lattner>所以我们都还在想这个节目的形式，并且我们已经有了一些想法。所以第一个想法是，由于它是来源于社区和为社区服务的，所以嘉宾真的没有必要请。
 
 00:03:42.455 --> 00:03:43.105
 <v Chris Lattner>所以我们不要。
 
 00:03:43.695 --> 00:03:52.555
-<v Chris Lattner>我们不会请嘉宾，我们会有搭档主持，并且我们会有一个主要主持人，今天是 Garric。他是幕后负责人。就是他。
+<v Chris Lattner>我们不会请嘉宾，我们会有搭档主持，并且我们会有一个主要主持人，今天是 Garric。他是幕后负责人。
 
 00:03:53.145 --> 00:04:15.575
 <v Chris Lattner>让每个人都专注于任务，保持一致，朝着正确的方向前进。但是其他加入的人会随着时间一周又一周的变化，我们的主持搭档、成员和参与者都是平等的。我认为这将是一个很好的方式。所以 John 这周没能来，是完全可以理解。但我肯定他会回来的。
 
 00:04:16.265 --> 00:04:46.475
-<v Garric Nahapetian>是的，就像 Chris 说的，我是主持人。这就像，我们试着鼓励人们在未来扮演一个角色一样，我们稍后会详细讨论。但 Chris 和 Bas 也是搭档主持。每个人都是主人。在未来，你可以想象我会不在录音里或者 Chris 不在节目录音里。我们正努力鼓励社区中不同的声音参与到这个项目中来，并帮助把它引向美好的未来。
+<v Garric Nahapetian>是的，就像 Chris 说的，我是主持人。或者说，我们试着鼓励人们在未来扮演一个角色一样，我们稍后会详细讨论。但 Chris 和 Bas 也是搭档主持。每个人来了都是主人。在未来，你可以想象我会不在录音里或者 Chris 不在节目录音里。我们正努力鼓励社区中不同的声音参与到这个项目中来，并帮助把它引向美好的未来。
 
 00:04:47.155 --> 00:04:54.515
-<v Chris Lattner>所以我们都想在参与，推动和实现这一目标之间找到平衡点。但我们也不想这样
+<v Chris Lattner>所以我们都想在参与，推动和实现这一目标之间找到平衡点。但我们也不想这样。
 
 00:04:55.165 --> 00:05:00.735
-<v Chris Lattner>究竟该何去何从。特别是关于我们的，我们希望它是关于社区的。
+<v Chris Lattner>究竟该何去何从。特别是关于我们的，我们希望它是做社区相关的。
 
 00:05:01.865 --> 00:05:09.895
-<v Garric Nahapetian>是的。所以，对于那些真的很期待听到 John 声音的人，他肯定会出现在未来的一集里。
+<v Garric Nahapetian>是的。所以，对于那些期待听到 John 声音的听众，放心他肯定会出现在未来的一集里。
 
 00:05:10.615 --> 00:05:22.375
 <v Garric Nahapetian>好吧。我们接下来要做的是一点点跟进社区，因为第一集的接受度非常棒。老实说，我从来没有真正参与过这样的事情。
 
 00:05:22.905 --> 00:05:43.705
-<v Garric Nahapetian>你知道，我就像一个重度的推特粉丝。当 John 发推特的时候，我们已经发布了这一集，它得到了很多转发，很多人开始关注我。而我们的账号 @theswiftpodcast 的推特在一天内就被关注了 1000 到 1500 次。除此之外，就像 twitter 一样，还有有很多很棒的东西。
+<v Garric Nahapetian>你知道，我是一个重度的推特用户。当 John 发推特的时候，我们已经发布了这一集，它得到了很多转发，很多人开始关注我。而我们的账号 @theswiftpodcast 的推特在一天内就被关注了 1000 到 1500 次。除此之外，就像 twitter 一样，还有其他各界很好的
 
 00:05:44.265 --> 00:05:52.135
-<v Garric Nahapetian>各界的回应和反馈，你知道，我们在一堆时事通讯和电子邮件中出现过，甚至可能在播客也有。
+<v Garric Nahapetian>回应和反馈，你知道，我们在一堆时事通讯和电子邮件中出现过，甚至可能在播客也有。
 
 00:05:52.875 --> 00:05:55.835
-<v Garric Nahapetian>你们从中得到了什么？比如，从大家的回应中？
+<v Garric Nahapetian>你们从中收获到了什么？比如，从大家的反馈之中？
 
 00:05:56.695 --> 00:06:03.770
 <v Garric Nahapetian>Bas，你当时是什么感觉？Chris 也参与其中，所以他可能在期待。你是怎么想的？你会感到惊讶吗?或者其它
 
 00:06:04.640 --> 00:06:30.420
-<v Bas Broek>我的意思是，我并不惊讶，很多人，喜欢跟风，对吧？因为我认为总的来说，播客是一种受越来越多的人关注和尝试的东西，包括我自己。然后是一个很棒的新想法。我觉得很好，像主持人。John 和一些粉丝一起去了推特。
+<v Bas Broek>我的意思是，我并不惊讶，很多人，喜欢跟风，对吧？因为我认为总的来说，播客是一种受越来越多的人关注和尝试的东西，包括我自己。这是是一个很棒的新想法。我觉得很好，像主持人。John 也在推特上有了一些粉丝。
 
 00:06:31.190 --> 00:06:46.770
-<v Bas Broek>Chris 在帮忙。然后我不知道有 1500 个粉丝。这太疯狂了。但很多人都在研究这个问题，我并不感到惊讶，我认为这很酷。我希望我们能继续保持这种热情，让局势变得更壮大。
+<v Bas Broek>Chris 在帮忙。然后我不知道有 1500 个粉丝。这太疯狂了。但很多人都在研究这个问题，我并不感到惊讶，我认为这很酷。我希望我们能继续保持这种热情，让势头变得更加壮大。
 
 00:06:47.560 --> 00:06:50.050
-<v Garric Nahapetian>有道理，你呢？Chris，你对此有何看法？
+<v Garric Nahapetian>有道理，你呢？Chris，你对此有什么看法？
 
 00:06:50.060 --> 00:06:52.170
 <v Chris Lattner>我觉得反响很好。
 
 00:06:52.830 --> 00:07:00.840
-<v Chris Lattner>Like we talked about last time. It's kind of this funny situation where you never know what's gonna happen when you try to do something new and you have hopes. But,
-就像我们上次说的。这是一种有趣的情况，你永远不知道当你尝试做一些新的事情，你有希望会发生什么。但
+<v Chris Lattner>就像我们上次说的。这是情况很有意思，当你做一些新尝试或者实现自身期望的时候，你永远不知道前路会发生什么。但
 
 00:07:01.460 --> 00:07:10.530
-<v Chris Lattner>to me, I think that the fact that people are getting involved, and reaching out and wanting to do things and help build something, I think it's really really exciting.
+<v Chris Lattner>对我来说，我觉得事实就是人们被逐渐吸引进来了，出力相助并且一起维护这个节目。我觉得这让人相当兴奋。
 
 00:07:11.620 --> 00:07:15.310
-<v Chris Lattner>You know, the sky's the limit. We could do anything together as a community, so I think it's great.
-对我来说，我认为人们参与进来，伸出援手，想要做一些事情，帮助建立一些东西，我认为这真的非常非常令人兴奋。
+<v Chris Lattner>众所周知，凡事都有瓶颈。我们可以像一个团体一样集中力量做成一件事，所以我觉得这样很棒。
 
 00:07:15.860 --> 00:07:54.590
-<v Garric Nahapetian>Yeah, so I just wanted to, or we just wanted to call out a few different people and organizations. So some of the organizations, for instance, like, iOS Dev Weekly. I don't know how you say his last name, Dave Verwer? He, you know posted in his iOS Dev Weekly newsletter. So thank you so much for doing that, Bas, you, included the Swift Community Podcast in the last issue of Swift Weekly Brief, so thank you. Thank you so much for doing that. And also there was a lot of activity on the GitHub repo, in the form of issues and pull requests. And so we wanted to quickly go through some of those as well. Chris, do you want to talk about some of them?
-是的，所以我只是想，或者我们只是想召集一些不同的人和组织。有些组织，比如iOS Dev Weekly。我不知道你怎么说他的姓，戴夫·威尔?他在他的iOS开发周刊上发表了这篇文章。非常感谢你们所做的一切，Bas，你们将Swift社区播客收录在了最新一期的Swift每周简报中，谢谢。非常感谢你所做的一切。GitHub repo上也有很多活动，比如问题和拉请求。所以我们想快速地过一遍
+<v Garric Nahapetian>是的，我想要，或者说我们想要召集一些不同的人和组织。有些组织，比如 iOS Dev Weekly。我不知道你怎么说他的姓，Dave Verwer？他在他的 iOS 开发周刊上发表了这篇文章。非常感谢他所做的一切，Bas，你们也把 Swift 社区播客收录在了最新一期的 《Swift 每周简报》中，谢谢。非常感谢你所做的一切。GitHub repo 上也有很多助力，比如 issues 和 pull requests 的方式。所以我们也想快速地过一遍其中的一些问题。Chris，你想要来从中挑一些说说吗？
 
 00:07:54.600 --> 00:08:11.926
-<v Chris Lattner>Sure. So there's a bunch of things and one of the reasons why we want to call it out is to highlight the work of great people, but also to encourage other folks that are interesting in that kind of a project to get involved and help pull together like minded people into a single effort.
-确定。所以有很多东西,其中一个原因为什么我们要叫它是强调工作的人,而且还鼓励其他有趣的人在这样的一个项目参与和帮助一群志同道合的朋友一起到一个单独的努力。
+<v Chris Lattner>当然，有很多事情需要谈谈，我们为什么要发起这个活动，有一个理由是我们不仅想要凝集大家的力量，而且还想鼓励其他对这样一个项目感兴趣的人，参与进来并且帮助一群彼此志同道合的朋友，为同一个目标努力。
 
 00:08:12.486 --> 00:08:37.926
-<v Chris Lattner>So highlight a few of them. Ole Begemann, started the idea of saying, hey, we should have transcripts for each episode. So he did an automated process using an online service to translate voice to text. But then it requires a bit of editing, and he's working on cleaning that up. And if you're interested in transcripts and written versions instead of spoken versions, that would be a really great project to get involved with.
-所以突出其中的一些。奥勒·贝格曼，开始想说，嘿，我们应该有每一集的文字记录。所以他做了一个自动化的过程，使用在线服务将语音翻译成文本。但这需要一些编辑，他正在清理。如果你对文本和书面版本而不是口语版本感兴趣，那将是一个非常好的项目。
+<v Chris Lattner>其中有一个比较杰出的。Ole Begemann,，起了一个主意，嘿，我们应该有每一集的字幕。所以他做了一个自动化的过程，使用在线服务将语音翻译成文本。但这需要一些编辑，他正在整理。如果你感兴趣的是文本和书面版本而不是口语版本，那将是一个非常适合你的好项目。
 
 00:08:38.476 --> 00:08:39.586
-<v Chris Lattner>That's PR #15.
+<v Chris Lattner>那是 PR #15.
 
 00:08:39.666 --> 00:08:55.936
-<v Garric Nahapetian>It's pretty incredible. You should take a look at what he did. He, like, ran it through Amazon Web Service Transcribe or something. And if this is a very interesting project for someone to work with Ole first off. So if you're new up and coming Swift developer, work with Ole on
-很难以置信。你应该看看他做了什么。他通过Amazon Web Service Transcribe之类的网站运行它。如果这是一个非常有趣的项目，你可以先和Ole一起工作
+<v Garric Nahapetian>这简直难以置信。你知道他怎么做的吗。他通过 Amazon Web Service Transcribe 之类的网站来做翻译工作。如果有人有兴趣想跟着 Ole 开始着手这个项目，并且是你刚开始 Swift 开发的新手，你可以先和 Ole 一起
 
 00:08:56.566 --> 00:09:17.826
-<v Garric Nahapetian>and take help kind of bootstrap this transcribe process because it can really be automated and we can work it into the repo. And so if I was, like a young up and coming Swift developer, I would jump on this cause I would get to work with Ole and be a really cool project that would provide a massive impact on this particular repo.
-帮助引导这个转录过程因为它真的可以自动化我们可以把它用到回购中。因此，如果我是一个年轻的，即将成为Swift开发者的人，我就会投身其中，因为我将与Ole一起工作，成为一个非常酷的项目，它将对这个特殊的回购产生巨大的影响。
+<v Garric Nahapetian>帮助梳理这个翻译过程，因为这个过程真的可以自动化起来，并且我们可以把它用到项目中。如果我是一个年轻的，即将成为 Swift 开发者的人，我就会投身其中，因为我将与 Ole 一起工作，把它做成一个非常酷的项目，而且它将对播客这个特殊的项目产生巨大的影响。
 
 00:09:18.416 --> 00:09:20.946
-<v Garric Nahapetian>Then I guess there's a next one. The podcast song.
-那我想还有下一个。播客的歌。
+<v Garric Nahapetian>那我想还有下一个可以做的事情。播客的歌。
 
 00:09:21.606 --> 00:09:35.366
-<v Garric Nahapetian>This is the issue where I think is this someone Maybe John Sundell's friend where he makes music. And He suggested that he could make a song for the podcast.
-这是一个问题，我想这个人可能是John Sundell的朋友，他做音乐。他建议他可以为播客创作一首歌。
+<v Garric Nahapetian>这是一个问题，我想这个人应该会是 John Sundell 身边一个做音乐的朋友。他觉得他可以为播客创作一首歌。
 
 00:09:35.816 --> 00:09:45.796
-<v Chris Lattner>Well, PR #23 is by Gorka Ercilla. I'm not sure if I'm pronouncing that right. But the basic idea is that, hey, we have no song.
-PR #23是Gorka Ercilla写的。我不确定我的发音是否正确。但基本的想法是，嘿，我们没有歌。
+<v Chris Lattner>PR #23是 Gorka Ercilla 写的。我不确定我有没有发对音她的名字。但她大致的想法是，嘿，我们没有歌。
 
 00:09:46.356 --> 00:09:55.226
-<v Chris Lattner>This is a totally fixable problem, and people that have musical ability could get involved and help with this. And there's a couple of different ideas on how that could go.
-这是一个完全可以解决的问题，有音乐能力的人可以参与进来并提供帮助。关于如何做到这一点，有几个不同的观点。
+<v Chris Lattner>这是一个完全可以解决的问题，有音乐创作能力的人都可以参与进来并提供帮助。至于要怎么做，倒有几个不同的观点。
 
 00:09:55.756 --> 00:10:18.246
 <v Chris Lattner>I personally do not have any musical talent, but if you do, would be great to jump on pull request #23 and chat with others to do, and see what makes sense what could be done. You know, going from 0 to 1 would be fantastic, but we've talked about this would be great to be a variety show as well. And if there's a couple of different
-我个人没有任何音乐天赋，但如果你有，那就跳上pull request #23和其他人聊天来做，看看能做什么是有意义的。你知道，从0到1会很棒，但是我们已经讨论过了，如果能成为一个综艺节目也会很棒。如果有一些不同
+<v Chris Lattner>我个人没有任何音乐天赋，但如果你有，那就跳上pull request #23和其他人聊天来做，看看能做什么是有意义的。你知道，从0到1会很棒，但是我们已经讨论过了，如果能成为一个综艺节目也会很棒。如果有一些不同
 
 00:10:18.896 --> 00:10:23.046
 <v Chris Lattner>sorts of intro songs that make sense for different purposes, that could also be fun.
-各种介绍歌曲，有不同的目的，这也可能是有趣的。
+<v Chris Lattner>各种介绍歌曲，有不同的目的，这也可能是有趣的。
 
 00:10:23.816 --> 00:10:51.126
 <v Garric Nahapetian>Yeah, you can imagine having like a main intro song. I mean outro song. But then, even if let's say you're gonna produce one of the next episodes, you might have music experience and you might create your own intro song or your own outro song would be really cool. So thank you so much to, yeah how do you say that? Gorka. Thank you so much to Gorka. He says he's gonna work on it, but he's abroad right now. So I mean, that's amazing to get that kind of response from the community.
